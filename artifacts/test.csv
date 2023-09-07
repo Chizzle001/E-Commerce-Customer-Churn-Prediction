@@ -1,0 +1,1127 @@
+MyUnknownColumn,Churn,Tenure,PreferredLoginDevice,CityTier,WarehouseToHome,PreferredPaymentMode,Gender,HourSpendOnApp,NumberOfDeviceRegistered,PreferedOrderCat,SatisfactionScore,MaritalStatus,NumberOfAddress,Complain,OrderAmountHikeFromlastYear,CouponUsed,OrderCount,DaySinceLastOrder,CashbackAmount
+2672,0,19.0,Mobile,3,9.0,COD,Female,2.0,1,Grocery,5,Married,3,0,12.0,2.0,2.0,8.0,232.25
+3571,0,6.0,Computer,1,9.0,DC,Female,3.0,4,Laptop,3,Single,6,1,15.0,2.0,2.0,8.0,174.98
+2051,1,3.0,Computer,3,30.0,DC,Female,3.0,1,Grocery,4,Single,5,1,16.0,1.0,2.0,0.0,231.94
+5223,0,3.0,Mobile,3,26.0,DC,Male,4.0,5,Laptop,3,Married,3,0,15.0,2.0,2.0,3.0,211.2
+3936,1,1.0,Computer,2,15.0,UPI,Female,4.0,5,Mobile,1,Married,8,0,12.0,2.0,2.0,3.0,146.8
+3743,0,51.0,Mobile,1,7.0,DC,Male,4.0,2,Laptop,3,Divorced,2,0,25.0,2.0,3.0,9.0,174.0
+2751,0,27.0,Mobile,1,16.0,CC,Female,3.0,3,Laptop,5,Single,7,1,19.0,0.0,1.0,4.0,144.4
+262,0,13.0,Mobile,3,8.0,E wallet,Female,2.0,3,Laptop,4,Married,8,0,12.0,0.0,1.0,3.0,157.15
+2968,0,1.0,Computer,1,7.0,DC,Female,3.0,4,Laptop,4,Married,3,0,21.0,1.0,2.0,5.0,188.97
+3437,0,12.0,Mobile,3,10.0,DC,Male,3.0,4,Laptop,2,Single,10,1,13.0,2.0,2.0,1.0,193.61
+172,0,8.0,Mobile,3,22.0,E wallet,Male,3.0,3,Fashion,4,Divorced,1,0,15.0,3.0,6.0,9.0,180.2
+2568,1,10.0,Computer,3,15.0,DC,Male,2.0,5,Grocery,3,Married,8,0,11.0,6.0,14.0,3.0,229.36
+9,1,10.0,Mobile,1,31.0,DC,Male,2.0,5,Mobile,3,Single,2,0,12.0,1.0,1.0,1.0,122.93
+2608,0,15.0,Mobile,1,18.0,CC,Male,3.0,3,Mobile,4,Married,9,0,22.0,1.0,1.0,4.0,127.66
+4892,1,1.0,Computer,1,12.0,CC,Female,3.0,4,Mobile,4,Single,2,0,18.0,1.0,2.0,3.0,149.22
+1063,0,2.0,Mobile,3,11.0,CC,Male,2.0,4,Laptop,4,Married,2,1,13.0,0.0,1.0,9.0,141.87
+896,1,0.0,Mobile,3,15.0,DC,Male,3.0,4,Mobile,5,Divorced,4,0,12.0,1.0,2.0,2.0,144.0
+3795,0,7.0,Mobile,3,15.0,DC,Male,3.0,4,Laptop,5,Married,4,0,14.0,3.0,3.0,3.0,188.92
+82,0,10.0,Computer,1,24.0,CC,Female,3.0,3,Mobile,2,Single,2,0,13.0,1.0,1.0,7.0,121.53
+2167,0,7.0,Computer,1,8.0,DC,Male,3.0,3,Laptop,3,Single,3,0,11.0,1.0,1.0,2.0,140.33
+1810,0,19.0,Computer,1,24.0,CC,Female,2.0,3,Fashion,3,Married,6,0,11.0,0.0,1.0,2.0,205.27
+4844,0,14.0,Mobile,3,17.0,E wallet,Male,4.0,5,Fashion,4,Married,4,0,13.0,1.0,2.0,3.0,222.05
+5540,0,9.0,Mobile,3,25.0,CC,Male,4.0,4,Laptop,5,Married,2,0,17.0,2.0,2.0,5.0,180.61
+3344,0,13.0,Mobile,2,9.0,DC,Female,3.0,5,Laptop,2,Divorced,10,0,12.0,1.0,2.0,5.0,177.04
+1568,0,11.0,Mobile,3,9.0,DC,Male,3.0,3,Fashion,3,Married,1,0,12.0,1.0,5.0,13.0,206.08999999999997
+3787,0,1.0,Mobile,1,28.0,COD,Male,3.0,5,Mobile,5,Married,2,0,15.0,1.0,2.0,1.0,147.96
+204,0,20.0,Mobile,1,11.0,DC,Male,2.0,3,Others,3,Divorced,5,0,11.0,1.0,1.0,1.0,283.0
+2947,0,14.0,Mobile,1,9.0,CC,Male,3.0,4,Others,3,Married,2,0,16.0,1.0,4.0,10.0,319.36
+2176,1,0.0,Computer,1,16.0,CC,Male,3.0,3,Mobile,3,Married,2,0,12.0,1.0,2.0,2.0,126.1
+2453,0,8.0,Mobile,1,16.0,CC,Male,3.0,4,Mobile,5,Single,2,0,19.0,1.0,1.0,2.0,124.5
+2970,0,27.0,Mobile,1,10.0,CC,Male,3.0,4,Grocery,3,Divorced,5,1,16.0,1.0,2.0,4.0,300.84
+1394,0,10.0,Mobile,1,14.0,DC,Male,2.0,1,Mobile,1,Married,2,0,19.0,1.0,1.0,1.0,122.69
+2145,1,0.0,Computer,1,16.0,CC,Male,2.0,4,Mobile,4,Married,2,0,15.0,1.0,1.0,0.0,125.96000000000001
+1087,0,7.0,Mobile,1,25.0,DC,Female,3.0,4,Mobile,1,Married,2,0,12.0,3.0,8.0,7.0,129.29
+3333,0,16.0,Mobile,1,10.0,DC,Female,4.0,2,Laptop,2,Divorced,4,1,14.0,1.0,2.0,4.0,177.31
+3583,0,3.0,Mobile,1,7.0,DC,Female,4.0,4,Mobile,2,Married,3,0,16.0,1.0,2.0,3.0,162.6
+3082,0,28.0,Mobile,1,12.0,CC,Male,3.0,4,Others,5,Divorced,6,0,16.0,2.0,2.0,3.0,319.06
+1042,1,0.0,Mobile,3,21.0,CC,Male,2.0,5,Laptop,1,Married,7,1,14.0,1.0,2.0,2.0,154.4
+2291,1,3.0,Mobile,3,31.0,E wallet,Male,2.0,4,Fashion,4,Single,3,1,12.0,1.0,1.0,0.0,190.94
+719,0,3.0,Mobile,3,16.0,E wallet,Male,3.0,4,Laptop,3,Divorced,2,0,18.0,1.0,1.0,4.0,165.78
+3978,0,9.0,Computer,1,9.0,CC,Male,3.0,4,Laptop,1,Married,4,0,15.0,1.0,2.0,8.0,182.62
+3734,0,23.0,Mobile,1,12.0,COD,Male,4.0,4,Laptop,3,Divorced,4,0,15.0,1.0,2.0,3.0,191.51
+237,0,0.0,Computer,3,16.0,CC,Male,2.0,3,Mobile,2,Single,2,0,24.0,0.0,2.0,2.0,126.1
+2697,0,17.0,Mobile,1,7.0,DC,Male,3.0,1,Laptop,5,Married,3,0,15.0,1.0,2.0,2.0,150.33
+4325,0,24.0,Mobile,1,18.0,DC,Female,3.0,4,Others,4,Single,5,0,16.0,1.0,5.0,5.0,324.26
+284,0,15.0,Computer,1,35.0,DC,Female,3.0,3,Laptop,3,Married,3,0,11.0,1.0,1.0,2.0,145.56
+3811,0,10.0,Mobile,3,7.0,DC,Female,4.0,4,Laptop,3,Single,8,0,14.0,2.0,2.0,1.0,193.15
+2543,0,6.0,Computer,3,22.0,DC,Female,2.0,3,Laptop,1,Married,2,1,25.0,0.0,1.0,2.0,153.68
+4533,0,1.0,Mobile,1,7.0,CC,Male,3.0,4,Mobile,4,Married,3,0,12.0,1.0,2.0,5.0,163.16
+2671,1,0.0,Mobile,3,8.0,E wallet,Male,2.0,4,Laptop,4,Single,8,1,12.0,1.0,2.0,2.0,199.07
+3657,0,14.0,Mobile,1,7.0,DC,Male,3.0,4,Mobile,4,Divorced,5,0,23.0,2.0,2.0,4.0,148.87
+4726,1,11.0,Computer,3,34.0,DC,Female,4.0,2,Laptop,3,Single,6,1,13.0,1.0,2.0,4.0,188.97
+274,0,10.0,Mobile,1,6.0,DC,Male,3.0,4,Mobile,5,Divorced,2,0,12.0,0.0,3.0,2.0,122.18
+3623,0,2.0,Mobile,1,7.0,COD,Male,3.0,4,Mobile,5,Single,4,0,12.0,1.0,2.0,3.0,145.8
+4583,0,4.0,Computer,3,29.0,UPI,Female,4.0,4,Fashion,5,Married,2,0,12.0,4.0,8.0,9.0,209.12
+1542,0,15.0,Computer,1,27.0,CC,Female,2.0,3,Laptop,3,Married,3,0,16.0,0.0,1.0,2.0,152.65
+1186,0,10.0,Computer,1,20.0,CC,Female,2.0,3,Mobile,3,Single,2,0,16.0,1.0,1.0,0.0,115.13999999999999
+4379,0,28.0,Mobile,3,10.0,E wallet,Female,3.0,4,Laptop,5,Married,4,0,15.0,2.0,2.0,6.0,184.4
+2504,0,12.0,Computer,1,10.0,CC,Female,2.0,3,Laptop,3,Single,1,0,13.0,3.0,3.0,8.0,150.42
+3531,0,1.0,Mobile,1,31.0,CC,Male,3.0,4,Mobile,4,Single,10,0,23.0,2.0,2.0,3.0,160.97
+3340,0,17.0,Computer,1,7.0,DC,Female,3.0,4,Laptop,2,Divorced,6,0,14.0,2.0,3.0,3.0,180.62
+2,1,10.0,Mobile,1,30.0,DC,Male,2.0,4,Mobile,3,Single,6,1,14.0,0.0,1.0,3.0,120.28
+4442,0,3.0,Computer,3,9.0,DC,Male,3.0,4,Laptop,1,Single,3,0,19.0,1.0,2.0,10.0,170.54
+3867,0,24.0,Mobile,1,24.0,DC,Female,3.0,5,Fashion,5,Married,7,0,16.0,2.0,2.0,12.0,257.69
+195,0,0.0,Mobile,3,8.0,DC,Male,3.0,3,Laptop,3,Single,2,1,11.0,1.0,1.0,4.0,144.78
+5505,0,9.0,Mobile,1,23.0,UPI,Female,3.0,5,Laptop,4,Married,2,1,12.0,1.0,2.0,3.0,172.88
+4806,0,27.0,Mobile,3,15.0,E wallet,Male,4.0,4,Grocery,1,Married,7,0,15.0,3.0,2.0,3.0,243.36
+30,0,2.0,Computer,1,6.0,COD,Male,2.0,3,Laptop,3,Divorced,2,0,13.0,0.0,1.0,9.0,143.19
+2641,0,3.0,Mobile,1,16.0,CC,Female,3.0,3,Fashion,3,Single,10,0,14.0,0.0,1.0,2.0,196.67
+1398,0,8.0,Computer,1,17.0,CC,Male,3.0,4,Fashion,5,Married,3,1,13.0,1.0,2.0,3.0,198.84
+5403,0,19.0,Mobile,2,11.0,DC,Female,3.0,6,Fashion,3,Married,6,0,22.0,2.0,2.0,3.0,222.56
+2226,0,5.0,Computer,1,8.0,DC,Female,2.0,3,Laptop,3,Single,5,1,14.0,1.0,1.0,7.0,149.98
+1799,0,2.0,Mobile,1,25.0,COD,Male,2.0,3,Laptop,1,Married,5,0,12.0,1.0,1.0,2.0,142.62
+2804,0,2.0,Mobile,1,19.0,UPI,Male,2.0,4,Laptop,4,Married,5,1,13.0,0.0,1.0,3.0,140.25
+4957,1,1.0,Mobile,1,28.0,CC,Male,3.0,4,Mobile,3,Married,3,0,21.0,2.0,2.0,1.0,148.77
+401,0,12.0,Mobile,1,8.0,COD,Female,3.0,4,Laptop,3,Single,2,0,11.0,2.0,11.0,10.0,145.53
+1711,1,4.0,Computer,3,10.0,E wallet,Male,2.0,3,Laptop,4,Single,2,0,18.0,4.0,7.0,7.0,193.55
+4559,0,5.0,Mobile,1,7.0,DC,Male,4.0,5,Mobile,5,Married,3,0,13.0,4.0,4.0,3.0,147.18
+2043,0,8.0,Mobile,3,24.0,CC,Female,2.0,3,Laptop,3,Married,2,0,16.0,1.0,1.0,0.0,146.01
+5206,0,18.0,Mobile,1,27.0,DC,Male,3.0,4,Mobile,4,Single,3,0,14.0,2.0,2.0,4.0,159.2
+1430,0,29.0,Mobile,1,13.0,DC,Male,2.0,5,Fashion,1,Single,5,0,11.0,0.0,1.0,2.0,172.6
+3308,0,1.0,Mobile,1,9.0,CC,Male,4.0,2,Mobile,5,Single,9,0,14.0,2.0,2.0,2.0,159.24
+1265,1,0.0,Mobile,1,16.0,COD,Male,2.0,4,Mobile,1,Married,6,0,12.0,0.0,1.0,3.0,123.66999999999999
+1782,0,3.0,Mobile,3,13.0,E wallet,Male,3.0,3,Mobile,4,Single,1,0,14.0,0.0,1.0,2.0,129.83
+3362,0,16.0,Mobile,3,21.0,CC,Female,4.0,5,Laptop,3,Single,9,0,18.0,1.0,2.0,4.0,187.44
+5442,0,7.0,Mobile,1,15.0,DC,Male,3.0,2,Mobile,5,Married,8,0,20.0,4.0,8.0,7.0,156.43
+5577,0,5.0,Mobile,3,9.0,DC,Male,3.0,4,Mobile,3,Married,2,0,20.0,1.0,2.0,3.0,155.67
+774,0,22.0,Mobile,1,10.0,CC,Male,2.0,4,Others,3,Divorced,3,0,13.0,1.0,1.0,0.0,287.11
+1744,0,10.0,Mobile,1,6.0,DC,Male,3.0,4,Mobile,5,Married,2,0,12.0,3.0,3.0,2.0,122.18
+4290,0,17.0,Computer,1,35.0,CC,Female,4.0,2,Mobile,3,Single,6,0,13.0,1.0,2.0,3.0,172.39
+876,0,10.0,Mobile,1,17.0,CC,Female,3.0,3,Mobile,3,Single,5,0,18.0,0.0,1.0,2.0,136.29
+2930,0,13.0,Mobile,1,7.0,CC,Female,4.0,4,Mobile,3,Married,9,0,15.0,1.0,2.0,3.0,147.32
+4963,0,8.0,Computer,1,10.0,DC,Male,3.0,5,Mobile,1,Married,5,0,18.0,1.0,2.0,1.0,154.79
+5071,1,1.0,Computer,3,31.0,DC,Male,4.0,6,Mobile,1,Single,3,1,15.0,2.0,2.0,1.0,136.18
+3175,0,1.0,Mobile,1,13.0,CC,Female,4.0,5,Mobile,3,Married,2,0,13.0,2.0,2.0,4.0,146.87
+2392,0,6.0,Computer,3,13.0,CC,Male,2.0,3,Laptop,5,Married,1,0,14.0,1.0,1.0,3.0,143.73
+5518,0,5.0,Mobile,3,17.0,CC,Female,3.0,4,Laptop,1,Married,4,1,12.0,2.0,2.0,5.0,190.83
+4358,0,12.0,Mobile,1,9.0,DC,Male,3.0,4,Laptop,3,Married,11,0,15.0,2.0,2.0,1.0,190.53
+2576,0,19.0,Mobile,1,19.0,DC,Male,2.0,3,Laptop,4,Single,7,0,14.0,1.0,1.0,9.0,155.62
+1119,0,3.0,Computer,1,8.0,COD,Female,3.0,4,Mobile,5,Single,1,0,16.0,0.0,1.0,7.0,149.68
+2281,0,18.0,Computer,1,31.0,CC,Female,2.0,3,Others,4,Single,4,0,22.0,1.0,1.0,0.0,280.61
+4797,0,6.0,Computer,1,7.0,DC,Male,4.0,4,Mobile,1,Married,2,0,13.0,2.0,2.0,3.0,148.14
+1118,0,18.0,Mobile,2,10.0,DC,Female,2.0,5,Fashion,3,Married,5,0,21.0,1.0,1.0,3.0,197.56
+4232,0,5.0,Mobile,1,7.0,CC,Male,3.0,4,Mobile,4,Single,3,0,18.0,2.0,2.0,1.0,150.01
+2425,0,19.0,Mobile,3,9.0,DC,Female,2.0,3,Grocery,4,Married,9,0,12.0,1.0,5.0,1.0,266.06
+2258,1,8.0,Mobile,3,8.0,E wallet,Female,3.0,5,Others,4,Single,3,1,16.0,1.0,1.0,11.0,288.24
+4955,0,11.0,Mobile,3,17.0,DC,Female,3.0,5,Laptop,1,Married,4,1,15.0,2.0,2.0,1.0,191.94
+3723,1,1.0,Computer,1,7.0,DC,Female,4.0,2,Fashion,4,Single,3,0,12.0,4.0,5.0,8.0,199.46
+530,0,10.0,Mobile,2,9.0,UPI,Male,2.0,3,Mobile,4,Married,4,1,11.0,0.0,1.0,3.0,122.77000000000001
+2015,0,0.0,Mobile,1,16.0,DC,Female,3.0,3,Mobile,3,Single,2,0,19.0,0.0,1.0,0.0,123.18
+495,0,8.0,Mobile,1,16.0,CC,Female,2.0,4,Mobile,5,Single,2,0,11.0,1.0,1.0,1.0,125.59
+2508,0,10.0,Mobile,1,16.0,CC,Female,3.0,3,Mobile,4,Married,2,0,11.0,4.0,7.0,7.0,139.36
+466,1,0.0,Mobile,3,22.0,E wallet,Female,3.0,3,Laptop,5,Single,6,0,15.0,1.0,1.0,2.0,153.24
+1220,0,8.0,Mobile,1,22.0,UPI,Female,2.0,4,Laptop,4,Married,1,1,11.0,1.0,1.0,2.0,147.88
+1601,0,15.0,Mobile,1,16.0,CC,Female,2.0,4,Mobile,5,Married,1,1,11.0,7.0,7.0,8.0,125.93
+4091,0,29.0,Mobile,2,33.0,UPI,Male,4.0,2,Others,4,Married,6,1,16.0,2.0,2.0,5.0,321.36
+187,0,4.0,Mobile,1,8.0,DC,Male,3.0,3,Mobile,2,Married,1,1,18.0,1.0,2.0,2.0,126.94999999999999
+1075,0,17.0,Mobile,2,6.0,DC,Female,2.0,3,Mobile,1,Married,5,1,18.0,2.0,2.0,2.0,131.95
+1593,0,10.0,Mobile,1,6.0,CC,Female,2.0,4,Mobile,5,Married,3,0,14.0,0.0,1.0,2.0,139.2
+1894,0,7.0,Mobile,1,14.0,CC,Female,3.0,3,Laptop,3,Single,4,0,11.0,0.0,4.0,3.0,161.42
+1576,0,15.0,Mobile,1,10.0,COD,Male,2.0,3,Others,1,Married,2,0,16.0,0.0,11.0,15.0,292.32
+2334,0,10.0,Mobile,1,10.0,DC,Male,3.0,3,Mobile,3,Married,8,1,15.0,1.0,1.0,3.0,129.96
+439,0,18.0,Mobile,3,8.0,COD,Male,2.0,5,Laptop,3,Single,1,0,13.0,0.0,3.0,1.0,166.32
+5149,0,11.0,Mobile,1,11.0,DC,Male,3.0,4,Mobile,3,Married,9,1,16.0,2.0,2.0,4.0,154.96
+1438,0,19.0,Computer,1,6.0,CC,Male,2.0,4,Fashion,5,Married,3,1,13.0,4.0,9.0,5.0,206.73000000000002
+3636,1,4.0,Mobile,3,32.0,E wallet,Male,3.0,5,Fashion,4,Single,4,1,13.0,1.0,2.0,3.0,215.94
+4617,1,1.0,Computer,3,12.0,E wallet,Male,4.0,4,Mobile,4,Single,3,1,15.0,2.0,2.0,1.0,143.78
+531,1,0.0,Mobile,1,31.0,DC,Male,3.0,3,Mobile,2,Single,2,1,24.0,1.0,1.0,1.0,127.94999999999999
+4934,0,29.0,Computer,1,9.0,CC,Male,3.0,5,Grocery,5,Single,9,0,16.0,3.0,7.0,3.0,292.56
+4715,0,3.0,Mobile,3,17.0,E wallet,Male,3.0,4,Mobile,4,Married,3,0,15.0,3.0,3.0,3.0,147.97
+3850,0,19.0,Mobile,1,9.0,UPI,Female,3.0,5,Laptop,1,Married,3,0,20.0,3.0,4.0,10.0,182.7
+3161,0,12.0,Mobile,1,17.0,CC,Female,4.0,4,Laptop,3,Divorced,5,0,20.0,2.0,2.0,3.0,223.24
+1228,1,10.0,Computer,1,22.0,COD,Male,2.0,5,Mobile,5,Married,2,1,23.0,3.0,3.0,0.0,123.07
+2593,0,0.0,Mobile,1,14.0,CC,Female,3.0,3,Mobile,1,Single,2,0,11.0,0.0,1.0,4.0,134.45
+2123,0,19.0,Mobile,1,14.0,DC,Female,3.0,4,Laptop,5,Married,9,1,23.0,1.0,1.0,7.0,146.15
+4574,1,1.0,Mobile,3,7.0,COD,Female,4.0,4,Mobile,4,Single,3,1,17.0,1.0,2.0,5.0,157.02
+2739,0,5.0,Mobile,1,11.0,DC,Male,2.0,4,Laptop,1,Single,9,0,24.0,1.0,1.0,0.0,196.79
+5242,0,1.0,Mobile,1,27.0,DC,Male,4.0,4,Laptop,3,Single,2,0,15.0,2.0,2.0,3.0,147.72
+3147,1,1.0,Computer,3,12.0,E wallet,Male,4.0,4,Mobile,4,Single,3,1,15.0,2.0,2.0,1.0,143.78
+327,0,18.0,Mobile,3,8.0,UPI,Male,3.0,3,Laptop,4,Divorced,1,0,19.0,3.0,3.0,7.0,148.05
+3634,0,2.0,Computer,1,7.0,DC,Female,3.0,6,Laptop,2,Divorced,2,0,12.0,8.0,8.0,6.0,191.74
+1459,0,7.0,Mobile,1,12.0,DC,Female,2.0,4,Laptop,4,Married,7,0,15.0,1.0,1.0,0.0,145.05
+5265,0,7.0,Mobile,3,15.0,DC,Male,3.0,4,Laptop,5,Married,4,0,14.0,3.0,3.0,3.0,188.92
+23,1,0.0,Mobile,3,26.0,DC,Female,3.0,5,Laptop,3,Divorced,4,1,11.0,1.0,2.0,2.0,145.59
+3986,0,4.0,Mobile,1,17.0,CC,Female,4.0,4,Fashion,3,Single,11,0,15.0,1.0,2.0,3.0,221.67
+4093,0,13.0,Mobile,3,22.0,E wallet,Male,4.0,4,Grocery,5,Single,2,0,13.0,5.0,2.0,11.0,258.41
+2724,1,0.0,Computer,2,28.0,UPI,Female,3.0,4,Mobile,4,Married,2,0,12.0,1.0,1.0,0.0,128.63
+5326,0,22.0,Computer,1,11.0,CC,Male,3.0,5,Grocery,1,Married,4,0,26.0,1.0,3.0,3.0,277.02
+4074,0,8.0,Mobile,3,7.0,E wallet,Male,3.0,4,Fashion,1,Single,3,0,22.0,2.0,3.0,3.0,223.88
+3618,1,8.0,Mobile,1,22.0,CC,Female,4.0,4,Fashion,2,Divorced,3,0,12.0,1.0,2.0,6.0,204.78
+280,1,0.0,Mobile,1,9.0,CC,Male,3.0,3,Mobile,5,Divorced,6,0,13.0,1.0,1.0,2.0,140.31
+2375,0,4.0,Mobile,3,14.0,DC,Male,2.0,3,Fashion,1,Married,2,0,18.0,2.0,9.0,9.0,207.93
+3756,0,7.0,Mobile,1,11.0,CC,Female,3.0,5,Mobile,4,Divorced,10,0,12.0,1.0,2.0,3.0,163.38
+4361,0,23.0,Computer,1,25.0,DC,Male,4.0,4,Laptop,1,Married,3,1,16.0,1.0,2.0,8.0,193.04
+2831,1,1.0,Computer,1,13.0,DC,Female,4.0,5,Mobile,2,Single,3,1,19.0,2.0,2.0,1.0,154.26
+3042,0,22.0,Mobile,3,36.0,CC,Female,4.0,4,Fashion,3,Divorced,5,0,22.0,1.0,2.0,1.0,250.04000000000002
+957,0,10.0,Mobile,1,26.0,DC,Male,3.0,3,Laptop,3,Single,1,0,14.0,1.0,1.0,2.0,122.72
+1171,0,3.0,Mobile,1,16.0,CC,Female,3.0,3,Fashion,3,Single,10,0,14.0,0.0,1.0,2.0,196.67
+2706,0,0.0,Computer,1,16.0,UPI,Male,3.0,1,Mobile,1,Married,1,0,18.0,2.0,7.0,7.0,125.44
+3299,0,17.0,Mobile,1,21.0,DC,Male,4.0,4,Grocery,5,Divorced,8,0,16.0,2.0,2.0,1.0,296.59
+3782,0,19.0,Mobile,1,35.0,COD,Male,4.0,4,Mobile,1,Married,6,0,21.0,2.0,2.0,4.0,146.32
+1093,0,14.0,Mobile,3,12.0,E wallet,Male,2.0,3,Fashion,3,Single,2,0,12.0,6.0,8.0,7.0,192.41
+5423,0,16.0,Mobile,1,19.0,CC,Male,3.0,4,Mobile,4,Married,10,0,23.0,2.0,2.0,5.0,152.66
+1531,0,13.0,Mobile,1,10.0,CC,Female,2.0,3,Others,3,Married,2,0,14.0,1.0,9.0,9.0,290.33
+1904,0,11.0,Mobile,1,8.0,CC,Male,3.0,3,Mobile,3,Married,7,1,13.0,0.0,1.0,1.0,130.57
+2417,0,2.0,Computer,1,8.0,DC,Female,3.0,3,Mobile,4,Married,1,0,13.0,1.0,1.0,2.0,131.8
+1447,1,0.0,Computer,1,12.0,DC,Female,3.0,4,Mobile,1,Single,2,1,18.0,0.0,1.0,0.0,129.26
+1098,1,10.0,Computer,3,15.0,DC,Male,2.0,5,Grocery,3,Married,8,0,11.0,1.0,14.0,3.0,229.36
+2784,0,9.0,Mobile,3,9.0,CC,Female,3.0,4,Fashion,1,Married,1,0,19.0,0.0,3.0,4.0,176.44
+632,0,7.0,Mobile,3,6.0,E wallet,Male,3.0,1,Laptop,2,Married,1,0,11.0,1.0,1.0,9.0,197.25
+1504,0,10.0,Computer,3,8.0,E wallet,Female,3.0,3,Mobile,3,Married,7,0,18.0,0.0,1.0,2.0,122.31
+5449,0,12.0,Computer,2,9.0,UPI,Male,4.0,4,Mobile,4,Married,7,0,14.0,3.0,4.0,9.0,150.92
+1949,0,15.0,Mobile,1,35.0,DC,Male,3.0,3,Laptop,4,Married,2,0,13.0,5.0,7.0,8.0,144.34
+2886,0,9.0,Computer,1,9.0,CC,Female,3.0,4,Laptop,4,Single,7,0,12.0,2.0,2.0,3.0,169.25
+5371,0,11.0,Computer,3,8.0,CC,Male,3.0,6,Laptop,1,Married,3,0,15.0,2.0,2.0,3.0,220.25
+923,0,7.0,Mobile,3,9.0,UPI,Male,2.0,5,Laptop,5,Single,4,0,18.0,2.0,3.0,12.0,147.59
+776,0,21.0,Mobile,1,16.0,COD,Male,3.0,1,Mobile,4,Single,6,0,11.0,0.0,1.0,0.0,125.59
+5580,0,15.0,Mobile,1,8.0,DC,Male,4.0,4,Mobile,1,Married,5,0,23.0,1.0,2.0,1.0,152.82
+3559,0,20.0,Mobile,1,22.0,DC,Male,3.0,4,Others,4,Divorced,7,0,16.0,2.0,2.0,4.0,315.81
+2702,0,15.0,Mobile,1,12.0,CC,Male,2.0,3,Fashion,5,Married,10,0,13.0,5.0,2.0,7.0,233.48000000000002
+3208,0,12.0,Mobile,3,14.0,E wallet,Female,3.0,5,Laptop,2,Single,2,0,21.0,2.0,2.0,6.0,165.28
+4352,1,1.0,Mobile,1,30.0,DC,Male,3.0,5,Laptop,3,Married,5,1,14.0,2.0,2.0,2.0,184.16
+952,1,0.0,Mobile,1,16.0,COD,Male,3.0,4,Mobile,5,Single,7,0,13.0,0.0,1.0,7.0,123.62
+249,0,1.0,Mobile,3,15.0,DC,Male,3.0,3,Laptop,2,Single,2,0,16.0,1.0,1.0,7.0,152.53
+4276,0,8.0,Mobile,1,12.0,CC,Female,3.0,5,Fashion,5,Single,4,0,13.0,3.0,2.0,9.0,241.31
+4151,1,14.0,Mobile,3,35.0,E wallet,Male,3.0,5,Fashion,5,Married,6,1,14.0,1.0,2.0,1.0,233.54000000000002
+2938,0,11.0,Mobile,1,7.0,CC,Female,3.0,5,Mobile,5,Divorced,4,0,15.0,2.0,2.0,3.0,164.2
+4606,0,15.0,Computer,3,17.0,DC,Male,3.0,4,Laptop,1,Single,9,0,15.0,1.0,2.0,11.0,187.3
+3556,0,14.0,Computer,3,9.0,CC,Male,4.0,4,Laptop,4,Divorced,7,0,13.0,2.0,2.0,1.0,168.27
+5559,0,17.0,Mobile,1,18.0,DC,Male,2.0,4,Fashion,3,Married,3,0,18.0,2.0,2.0,10.0,200.1
+2564,0,2.0,Mobile,1,15.0,CC,Female,3.0,3,Mobile,3,Married,10,0,17.0,0.0,1.0,2.0,129.74
+4847,0,10.0,Mobile,1,9.0,CC,Male,4.0,4,Mobile,3,Single,6,0,22.0,2.0,4.0,10.0,150.19
+570,1,0.0,Mobile,3,6.0,DC,Male,2.0,4,Fashion,3,Divorced,6,0,11.0,1.0,11.0,7.0,206.08999999999997
+3356,1,1.0,Mobile,1,10.0,DC,Female,3.0,4,Laptop,3,Divorced,2,1,20.0,2.0,2.0,3.0,166.71
+5286,0,24.0,Mobile,3,16.0,E wallet,Male,3.0,4,Others,3,Married,6,1,16.0,1.0,2.0,1.0,318.31
+2571,0,5.0,Computer,1,16.0,DC,Male,2.0,3,Mobile,3,Married,7,0,13.0,0.0,1.0,3.0,134.33
+1713,1,3.0,Mobile,3,28.0,E wallet,Male,3.0,4,Laptop,3,Married,3,1,12.0,1.0,1.0,0.0,163.8
+2960,0,29.0,Mobile,1,7.0,CC,Male,3.0,4,Others,5,Single,2,1,16.0,5.0,5.0,14.0,315.45
+4661,0,4.0,Computer,1,10.0,CC,Female,4.0,4,Mobile,3,Married,3,0,21.0,2.0,2.0,1.0,145.83
+1034,0,12.0,Computer,1,10.0,CC,Female,2.0,3,Laptop,3,Single,1,0,13.0,3.0,3.0,8.0,150.42
+114,1,0.0,Mobile,1,6.0,DC,Male,3.0,4,Mobile,3,Single,1,1,14.0,1.0,1.0,2.0,137.3
+4752,0,21.0,Mobile,1,9.0,UPI,Female,3.0,4,Grocery,1,Married,3,1,16.0,4.0,4.0,1.0,292.52
+3998,0,12.0,Mobile,3,9.0,E wallet,Female,4.0,6,Laptop,1,Married,4,1,21.0,1.0,2.0,4.0,179.05
+4415,0,1.0,Mobile,1,7.0,DC,Female,4.0,4,Laptop,3,Married,2,0,13.0,2.0,2.0,3.0,173.98
+1461,0,7.0,Mobile,1,11.0,CC,Female,2.0,4,Fashion,5,Single,3,0,12.0,2.0,5.0,3.0,216.31
+1177,0,8.0,Mobile,1,29.0,CC,Male,3.0,5,Mobile,3,Married,1,0,16.0,1.0,1.0,3.0,127.05000000000001
+3709,0,10.0,Mobile,3,23.0,E wallet,Female,4.0,5,Laptop,5,Divorced,6,0,14.0,2.0,2.0,3.0,181.47
+1965,0,8.0,Mobile,1,16.0,CC,Female,2.0,4,Mobile,5,Single,2,0,11.0,0.0,1.0,1.0,125.59
+344,1,0.0,Computer,3,17.0,UPI,Male,2.0,2,Laptop,3,Divorced,9,0,12.0,1.0,1.0,2.0,147.07
+1456,1,0.0,Computer,1,13.0,DC,Male,3.0,5,Laptop,3,Single,2,1,24.0,1.0,1.0,6.0,160.74
+5469,0,1.0,Mobile,3,17.0,CC,Male,3.0,4,Laptop,1,Single,3,0,14.0,2.0,2.0,3.0,171.84
+1699,0,3.0,Computer,3,31.0,COD,Female,2.0,3,Laptop,3,Married,8,1,12.0,2.0,2.0,2.0,147.36
+5409,1,1.0,Mobile,3,16.0,E wallet,Female,3.0,6,Mobile,4,Single,3,0,14.0,3.0,3.0,3.0,152.6
+4943,0,15.0,Mobile,1,14.0,COD,Female,3.0,2,Mobile,3,Married,3,0,14.0,1.0,2.0,9.0,158.76
+266,0,13.0,Mobile,1,8.0,CC,Female,3.0,4,Laptop,3,Divorced,7,0,22.0,1.0,1.0,0.0,134.48
+3292,0,4.0,Mobile,1,9.0,CC,Female,3.0,5,Laptop,2,Single,7,1,25.0,2.0,2.0,1.0,193.77
+4469,0,5.0,Mobile,1,12.0,COD,Male,3.0,4,Mobile,1,Married,2,1,13.0,2.0,2.0,4.0,173.21
+2442,0,10.0,Mobile,1,27.0,COD,Male,2.0,4,Mobile,5,Married,1,0,14.0,0.0,1.0,0.0,122.96000000000001
+5124,0,8.0,Mobile,3,22.0,CC,Female,4.0,4,Laptop,5,Single,3,0,13.0,5.0,10.0,7.0,186.25
+660,0,13.0,Mobile,1,26.0,COD,Male,3.0,3,Fashion,2,Divorced,5,0,20.0,4.0,11.0,1.0,203.22
+3105,1,1.0,Computer,3,13.0,E wallet,Female,3.0,6,Mobile,3,Married,2,0,17.0,2.0,2.0,1.0,148.51
+3332,0,12.0,Mobile,3,16.0,E wallet,Male,4.0,5,Mobile,4,Divorced,2,0,20.0,1.0,2.0,3.0,153.99
+394,0,2.0,Computer,1,6.0,DC,Male,3.0,5,Mobile,2,Married,2,0,18.0,2.0,2.0,8.0,127.19999999999999
+4403,0,14.0,Mobile,1,31.0,COD,Male,4.0,4,Laptop,1,Married,3,0,18.0,3.0,5.0,8.0,158.19
+326,0,15.0,Mobile,1,30.0,CC,Male,2.0,3,Fashion,5,Divorced,2,1,21.0,4.0,5.0,8.0,174.06
+2166,0,22.0,Mobile,3,14.0,COD,Male,2.0,4,Grocery,4,Married,7,0,17.0,1.0,2.0,3.0,231.2
+3962,0,12.0,Mobile,1,13.0,UPI,Female,3.0,5,Mobile,3,Married,3,0,12.0,1.0,2.0,5.0,162.02
+4572,0,20.0,Mobile,1,25.0,CC,Female,3.0,4,Laptop,3,Married,4,0,15.0,2.0,2.0,9.0,173.1
+5523,0,7.0,Mobile,3,17.0,E wallet,Male,3.0,4,Laptop,3,Single,3,0,15.0,1.0,2.0,10.0,179.87
+3778,0,16.0,Mobile,1,9.0,CC,Male,4.0,5,Mobile,4,Married,6,0,15.0,2.0,2.0,1.0,173.41
+3694,0,1.0,Mobile,1,14.0,UPI,Male,4.0,2,Mobile,5,Single,2,0,13.0,2.0,2.0,8.0,160.78
+603,0,27.0,Mobile,1,23.0,COD,Female,2.0,3,Fashion,3,Divorced,9,0,11.0,1.0,1.0,8.0,207.39
+318,1,0.0,Computer,1,10.0,COD,Male,2.0,4,Mobile,3,Single,6,0,16.0,1.0,1.0,2.0,138.94
+4613,1,1.0,Computer,2,24.0,DC,Female,3.0,4,Mobile,3,Married,2,1,12.0,1.0,2.0,1.0,152.41
+1039,0,13.0,Mobile,1,22.0,DC,Female,2.0,3,Fashion,1,Single,7,1,15.0,1.0,3.0,3.0,179.45
+5262,0,10.0,Mobile,3,9.0,DC,Male,4.0,4,Mobile,1,Single,5,1,22.0,2.0,2.0,3.0,151.44
+1553,0,13.0,Computer,1,15.0,DC,Male,3.0,4,Laptop,1,Married,10,0,14.0,0.0,1.0,2.0,148.76
+813,0,30.0,Mobile,1,16.0,DC,Male,2.0,3,Mobile,3,Married,2,0,12.0,2.0,2.0,2.0,123.72
+1069,0,20.0,Mobile,3,8.0,DC,Female,2.0,1,Grocery,4,Married,7,0,14.0,0.0,2.0,2.0,259.72
+2822,1,1.0,Mobile,1,7.0,CC,Male,4.0,4,Mobile,2,Divorced,4,1,17.0,3.0,3.0,1.0,147.93
+2727,0,4.0,Computer,1,9.0,CC,Male,3.0,3,Mobile,5,Married,2,1,13.0,2.0,2.0,3.0,130.65
+1343,0,22.0,Computer,3,8.0,CC,Male,3.0,4,Laptop,4,Married,3,0,14.0,1.0,1.0,8.0,153.9
+3204,1,1.0,Computer,1,10.0,DC,Male,4.0,4,Mobile,5,Single,3,1,12.0,10.0,10.0,8.0,158.48
+4416,0,16.0,Mobile,1,9.0,CC,Female,3.0,5,Mobile,5,Married,2,1,12.0,8.0,8.0,9.0,150.93
+2301,0,29.0,Mobile,2,14.0,DC,Male,3.0,3,Others,4,Single,7,0,16.0,2.0,7.0,7.0,297.17
+3732,0,18.0,Computer,1,12.0,DC,Male,3.0,5,Mobile,3,Single,5,0,15.0,1.0,2.0,4.0,156.62
+104,1,0.0,Mobile,1,16.0,CC,Male,2.0,4,Mobile,2,Single,2,1,13.0,0.0,1.0,1.0,123.88999999999999
+577,0,3.0,Mobile,3,14.0,UPI,Male,3.0,3,Fashion,3,Married,6,0,11.0,4.0,7.0,7.0,172.64
+5524,0,2.0,Computer,3,8.0,DC,Male,3.0,5,Laptop,1,Married,3,1,13.0,2.0,2.0,8.0,193.34
+100,0,10.0,Mobile,1,9.0,DC,Male,3.0,4,Mobile,2,Divorced,4,0,17.0,0.0,1.0,0.0,121.77000000000001
+520,1,0.0,Mobile,3,6.0,CC,Female,3.0,4,Mobile,3,Married,7,1,19.0,0.0,1.0,2.0,128.0
+3612,0,18.0,Mobile,1,11.0,DC,Male,4.0,2,Others,5,Married,3,0,16.0,2.0,15.0,14.0,316.9
+2919,1,1.0,Mobile,1,25.0,CC,Male,3.0,5,Mobile,2,Single,3,1,14.0,1.0,2.0,2.0,148.89
+5339,0,8.0,Mobile,1,10.0,DC,Female,4.0,4,Laptop,4,Married,3,0,13.0,2.0,8.0,10.0,179.33
+405,0,0.0,Mobile,1,6.0,DC,Female,3.0,3,Fashion,5,Divorced,2,0,11.0,1.0,1.0,7.0,174.12
+5152,0,13.0,Computer,1,32.0,DC,Male,4.0,4,Fashion,3,Married,5,0,22.0,1.0,2.0,6.0,234.2
+956,0,8.0,Mobile,1,22.0,DC,Female,3.0,4,Fashion,4,Single,2,0,19.0,1.0,3.0,3.0,186.06
+1143,0,26.0,Computer,1,6.0,CC,Female,2.0,4,Grocery,3,Married,5,1,20.0,0.0,1.0,3.0,229.64999999999998
+295,0,2.0,Mobile,1,9.0,CC,Male,3.0,4,Fashion,3,Divorced,2,0,18.0,1.0,1.0,3.0,219.35000000000002
+4474,0,1.0,Mobile,1,17.0,CC,Male,4.0,4,Grocery,5,Married,3,1,16.0,2.0,12.0,11.0,295.68
+4109,0,16.0,Mobile,1,25.0,DC,Male,3.0,4,Laptop,5,Married,8,1,18.0,1.0,2.0,3.0,179.1
+4006,0,17.0,Computer,3,9.0,DC,Male,4.0,4,Laptop,1,Married,3,0,21.0,6.0,8.0,8.0,181.75
+219,0,8.0,Mobile,1,11.0,COD,Male,3.0,3,Fashion,4,Single,1,0,13.0,0.0,1.0,13.0,180.95
+1758,0,15.0,Computer,1,34.0,COD,Female,2.0,4,Laptop,1,Married,1,0,11.0,0.0,1.0,4.0,145.23
+3335,1,1.0,Mobile,3,7.0,CC,Female,3.0,5,Mobile,3,Married,8,1,20.0,1.0,2.0,3.0,153.0
+2785,0,9.0,Computer,1,10.0,DC,Female,3.0,3,Laptop,4,Married,8,0,13.0,0.0,1.0,2.0,151.31
+4285,0,1.0,Mobile,1,13.0,UPI,Female,3.0,5,Mobile,4,Married,3,0,20.0,3.0,5.0,4.0,148.68
+2144,0,15.0,Mobile,1,8.0,CC,Male,2.0,3,Grocery,5,Married,1,0,17.0,1.0,13.0,7.0,276.65
+1561,1,0.0,Computer,3,32.0,E wallet,Female,2.0,4,Laptop,5,Single,6,0,15.0,1.0,1.0,1.0,166.96
+1166,1,0.0,Mobile,1,16.0,CC,Male,2.0,3,Laptop,5,Single,2,0,15.0,0.0,1.0,8.0,142.13
+4658,0,1.0,Mobile,1,13.0,CC,Male,4.0,4,Mobile,3,Married,2,0,21.0,2.0,3.0,3.0,152.73
+1274,0,16.0,Mobile,1,17.0,DC,Male,1.0,3,Fashion,3,Married,2,0,17.0,1.0,1.0,9.0,175.1
+1915,0,25.0,Computer,1,25.0,CC,Male,2.0,3,Mobile,1,Married,1,0,18.0,1.0,1.0,2.0,142.58
+1486,0,18.0,Mobile,1,35.0,CC,Male,2.0,3,Mobile,1,Single,6,0,13.0,1.0,1.0,3.0,134.52
+3931,0,6.0,Mobile,3,26.0,DC,Male,4.0,6,Fashion,3,Married,5,0,14.0,2.0,2.0,3.0,221.1
+2612,0,7.0,Computer,3,16.0,DC,Male,2.0,3,Laptop,3,Married,2,1,14.0,1.0,1.0,7.0,140.01
+34,0,10.0,Computer,3,8.0,E wallet,Female,3.0,3,Mobile,3,Divorced,7,0,18.0,1.0,1.0,2.0,122.31
+3089,0,5.0,Mobile,1,7.0,DC,Male,4.0,5,Mobile,5,Divorced,3,0,13.0,1.0,4.0,3.0,147.18
+1717,0,8.0,Mobile,1,15.0,DC,Male,3.0,4,Laptop,4,Single,10,0,19.0,0.0,1.0,0.0,165.4
+55,0,4.0,Mobile,1,18.0,CC,Female,3.0,3,Mobile,2,Divorced,9,1,23.0,1.0,1.0,2.0,139.29
+4886,0,5.0,Computer,1,7.0,DC,Female,4.0,4,Laptop,5,Married,3,0,13.0,2.0,2.0,4.0,166.48
+3120,0,9.0,Mobile,1,29.0,DC,Male,3.0,6,Mobile,3,Single,2,0,16.0,3.0,5.0,4.0,167.3
+793,0,24.0,Computer,3,15.0,DC,Male,2.0,3,Others,4,Married,5,1,16.0,2.0,11.0,10.0,298.47
+4505,0,1.0,Mobile,1,33.0,DC,Male,3.0,4,Mobile,1,Married,3,0,13.0,1.0,2.0,3.0,154.04
+2898,0,14.0,Computer,1,16.0,DC,Male,4.0,5,Laptop,2,Divorced,11,0,15.0,2.0,2.0,3.0,173.76
+3457,0,11.0,Mobile,1,10.0,UPI,Female,3.0,4,Laptop,4,Single,5,0,16.0,2.0,2.0,2.0,166.07
+2462,0,7.0,Mobile,1,7.0,DC,Male,2.0,3,Laptop,1,Married,10,0,17.0,0.0,2.0,1.0,154.84
+691,0,12.0,Computer,1,15.0,DC,Male,3.0,3,Laptop,4,Single,21,0,15.0,1.0,1.0,3.0,167.82
+1107,0,8.0,Mobile,1,33.0,DC,Male,2.0,3,Laptop,3,Married,3,0,16.0,0.0,1.0,7.0,168.83
+3684,0,26.0,Computer,1,35.0,CC,Female,3.0,2,Grocery,3,Divorced,4,1,12.0,1.0,2.0,3.0,257.47
+3004,0,13.0,Mobile,1,17.0,CC,Male,3.0,4,Grocery,5,Divorced,3,1,16.0,12.0,12.0,11.0,295.68
+771,0,4.0,Mobile,1,30.0,CC,Female,3.0,4,Laptop,5,Single,2,0,19.0,0.0,1.0,8.0,168.12
+3701,0,10.0,Mobile,3,10.0,E wallet,Female,3.0,4,Laptop,4,Single,5,1,17.0,1.0,2.0,3.0,217.78
+5214,0,23.0,Mobile,1,14.0,DC,Male,3.0,4,Fashion,4,Married,5,0,15.0,1.0,2.0,3.0,229.66
+5603,0,16.0,Mobile,1,9.0,DC,Male,3.0,4,Others,3,Married,7,0,16.0,1.0,5.0,15.0,313.8
+3608,0,25.0,Computer,3,16.0,DC,Male,3.0,4,Others,4,Married,6,1,25.0,3.0,12.0,11.0,323.47
+2597,0,7.0,Mobile,1,8.0,CC,Male,3.0,1,Mobile,1,Married,1,1,14.0,1.0,1.0,2.0,129.32
+5557,0,28.0,Mobile,1,16.0,DC,Female,4.0,4,Laptop,3,Married,5,0,12.0,2.0,3.0,4.0,153.97
+2517,0,2.0,Mobile,3,16.0,CC,Male,2.0,4,Laptop,3,Single,10,0,11.0,1.0,1.0,4.0,158.69
+1313,1,10.0,Computer,3,15.0,E wallet,Male,2.0,3,Mobile,5,Married,2,0,19.0,1.0,1.0,0.0,117.9
+5397,1,1.0,Mobile,3,8.0,DC,Male,3.0,6,Laptop,4,Single,8,0,16.0,1.0,2.0,1.0,192.35
+3806,0,29.0,Mobile,3,33.0,E wallet,Male,3.0,5,Others,1,Married,3,0,16.0,3.0,3.0,14.0,320.86
+915,0,13.0,Computer,1,14.0,CC,Male,2.0,4,Fashion,4,Married,3,0,11.0,1.0,2.0,8.0,237.57
+738,0,6.0,Mobile,2,8.0,UPI,Male,2.0,3,Mobile,3,Divorced,2,0,13.0,0.0,1.0,4.0,136.0
+2991,0,1.0,Mobile,3,17.0,CC,Female,4.0,5,Mobile,3,Single,3,0,13.0,2.0,2.0,1.0,137.0
+4045,0,10.0,Mobile,3,24.0,E wallet,Male,3.0,5,Laptop,4,Married,4,0,17.0,2.0,2.0,4.0,180.07
+1563,0,18.0,Computer,3,12.0,CC,Female,2.0,4,Fashion,1,Single,7,0,12.0,5.0,12.0,8.0,188.65
+2320,1,18.0,Mobile,3,19.0,E wallet,Male,2.0,1,Grocery,3,Single,7,1,17.0,1.0,2.0,8.0,236.95
+2464,0,11.0,Mobile,3,20.0,DC,Male,3.0,3,Laptop,4,Married,1,0,11.0,3.0,7.0,7.0,199.24
+2128,0,14.0,Mobile,1,13.0,COD,Female,2.0,1,Mobile,3,Married,2,0,13.0,0.0,1.0,8.0,133.76
+3958,0,27.0,Computer,1,7.0,CC,Female,3.0,5,Grocery,3,Married,6,1,21.0,1.0,2.0,3.0,254.64999999999998
+1140,0,6.0,Computer,1,10.0,COD,Male,3.0,3,Laptop,4,Married,6,0,15.0,0.0,1.0,7.0,130.55
+2523,0,0.0,Mobile,3,8.0,CC,Female,3.0,3,Mobile,3,Single,2,0,19.0,0.0,2.0,2.0,127.83000000000001
+1044,0,0.0,Mobile,1,14.0,CC,Female,2.0,1,Mobile,3,Married,8,0,17.0,0.0,1.0,2.0,135.17
+2033,1,10.0,Mobile,3,27.0,UPI,Male,2.0,4,Mobile,4,Single,2,1,13.0,1.0,1.0,0.0,121.21000000000001
+4999,0,16.0,Mobile,3,11.0,E wallet,Male,3.0,4,Laptop,5,Single,9,0,14.0,2.0,2.0,6.0,176.55
+200,0,4.0,Computer,1,13.0,DC,Female,2.0,4,Fashion,3,Divorced,2,0,24.0,3.0,8.0,9.0,189.43
+744,0,19.0,Mobile,1,21.0,DC,Male,2.0,3,Others,4,Divorced,6,0,11.0,1.0,1.0,3.0,290.81
+4119,0,13.0,Mobile,1,31.0,DC,Male,3.0,4,Laptop,1,Single,9,0,14.0,2.0,2.0,8.0,166.08
+4133,0,16.0,Mobile,1,9.0,DC,Male,3.0,4,Others,3,Married,7,0,16.0,2.0,5.0,15.0,313.8
+2726,0,10.0,Computer,1,22.0,CC,Male,2.0,3,Mobile,3,Single,2,0,14.0,0.0,1.0,4.0,121.44
+356,0,7.0,Mobile,1,6.0,DC,Male,2.0,4,Mobile,2,Divorced,2,1,13.0,0.0,1.0,3.0,136.22
+1899,0,0.0,Mobile,1,13.0,CC,Female,2.0,4,Laptop,5,Single,9,0,19.0,1.0,1.0,7.0,168.11
+2912,0,11.0,Computer,1,18.0,UPI,Male,3.0,4,Fashion,2,Married,3,1,15.0,1.0,2.0,8.0,246.85000000000002
+1857,0,10.0,Mobile,1,9.0,CC,Male,2.0,4,Mobile,1,Single,1,0,13.0,1.0,1.0,1.0,120.44999999999999
+5300,0,18.0,Mobile,1,14.0,CC,Female,3.0,4,Others,1,Married,2,1,16.0,1.0,2.0,11.0,315.49
+2916,0,11.0,Computer,3,11.0,E wallet,Male,3.0,4,Mobile,2,Married,6,0,18.0,2.0,6.0,9.0,25.0
+1414,1,0.0,Mobile,1,15.0,CC,Male,3.0,4,Mobile,3,Married,1,1,17.0,1.0,1.0,0.0,133.88
+1254,1,0.0,Computer,2,28.0,UPI,Female,3.0,4,Mobile,4,Married,2,0,12.0,1.0,1.0,0.0,128.63
+1906,0,25.0,Mobile,3,9.0,E wallet,Male,2.0,4,Grocery,5,Married,2,0,11.0,1.0,1.0,16.0,268.56
+3228,0,15.0,Mobile,2,7.0,UPI,Male,3.0,5,Others,3,Divorced,3,0,16.0,3.0,3.0,11.0,316.89
+2115,0,19.0,Mobile,1,6.0,CC,Male,2.0,3,Others,1,Married,10,0,16.0,1.0,2.0,2.0,296.27
+227,0,21.0,Mobile,3,35.0,CC,Female,3.0,3,Fashion,3,Divorced,4,0,21.0,0.0,1.0,3.0,225.04000000000002
+4418,0,25.0,Mobile,1,7.0,DC,Male,4.0,4,Mobile,1,Married,3,0,12.0,2.0,2.0,1.0,152.23
+1164,0,11.0,Computer,2,16.0,UPI,Male,3.0,3,Mobile,4,Married,6,0,13.0,3.0,3.0,8.0,125.91999999999999
+1441,0,0.0,Mobile,3,9.0,UPI,Female,2.0,3,Laptop,3,Married,1,0,21.0,0.0,1.0,2.0,149.99
+1373,0,17.0,Mobile,1,13.0,CC,Female,2.0,4,Fashion,1,Married,4,0,14.0,0.0,5.0,17.0,202.48
+2390,0,13.0,Mobile,1,16.0,CC,Male,3.0,3,Mobile,3,Married,3,0,14.0,1.0,1.0,2.0,123.44999999999999
+4139,0,6.0,Mobile,1,9.0,COD,Male,4.0,4,Mobile,5,Single,3,0,15.0,2.0,2.0,3.0,149.39
+4591,0,28.0,Mobile,1,6.0,DC,Female,3.0,4,Laptop,3,Single,9,0,12.0,1.0,2.0,1.0,162.8
+3882,0,23.0,Mobile,1,23.0,CC,Female,4.0,4,Mobile,5,Married,6,1,17.0,2.0,3.0,3.0,150.87
+1855,0,27.0,Mobile,2,25.0,CC,Male,2.0,3,Fashion,4,Married,3,0,15.0,2.0,7.0,1.0,207.25
+3009,0,6.0,Mobile,3,15.0,COD,Female,4.0,5,Laptop,4,Divorced,3,1,12.0,7.0,12.0,10.0,177.28
+1049,0,0.0,Computer,1,8.0,DC,Male,3.0,1,Laptop,3,Married,2,0,17.0,0.0,1.0,7.0,152.06
+3670,1,1.0,Computer,3,9.0,DC,Female,3.0,5,Mobile,2,Single,9,0,15.0,1.0,2.0,1.0,152.85
+533,0,17.0,Mobile,1,16.0,DC,Male,3.0,3,Mobile,5,Divorced,2,1,13.0,2.0,7.0,1.0,125.59
+2731,0,0.0,Mobile,1,7.0,CC,Male,3.0,3,Mobile,5,Single,1,0,13.0,7.0,7.0,6.0,128.67
+3884,0,21.0,Mobile,3,9.0,DC,Female,3.0,2,Grocery,4,Married,8,0,15.0,1.0,2.0,3.0,284.72
+845,0,0.0,Mobile,3,16.0,CC,Female,3.0,1,Mobile,2,Divorced,9,0,14.0,1.0,1.0,0.0,125.34
+959,0,7.0,Mobile,3,6.0,COD,Male,3.0,4,Fashion,3,Divorced,2,1,14.0,7.0,8.0,6.0,170.83
+2790,0,14.0,Mobile,1,34.0,DC,Female,2.0,4,Grocery,4,Married,1,0,23.0,1.0,2.0,10.0,235.7
+4424,1,1.0,Mobile,1,9.0,DC,Male,4.0,4,Mobile,3,Single,4,0,12.0,1.0,2.0,1.0,159.85
+1908,0,0.0,Mobile,3,32.0,CC,Female,2.0,3,Laptop,1,Single,2,0,23.0,0.0,1.0,4.0,161.8
+2753,0,0.0,Mobile,1,16.0,UPI,Male,3.0,3,Mobile,1,Single,2,0,13.0,1.0,1.0,4.0,126.47
+5001,0,1.0,Mobile,1,31.0,CC,Male,3.0,4,Mobile,4,Single,10,0,23.0,1.0,2.0,3.0,160.97
+2589,0,3.0,Computer,1,8.0,COD,Female,3.0,4,Mobile,5,Single,1,0,16.0,0.0,1.0,7.0,149.68
+5280,0,12.0,Mobile,3,23.0,DC,Female,3.0,4,Laptop,4,Single,4,0,13.0,2.0,2.0,3.0,166.98
+1267,0,8.0,Mobile,3,13.0,DC,Female,2.0,3,Laptop,1,Married,2,1,11.0,1.0,1.0,9.0,152.04
+5320,0,19.0,Mobile,1,9.0,UPI,Female,3.0,5,Laptop,1,Married,3,0,20.0,4.0,4.0,10.0,182.7
+5553,0,1.0,Mobile,3,16.0,E wallet,Male,3.0,4,Laptop,1,Single,3,0,15.0,2.0,2.0,8.0,166.05
+4426,0,5.0,Mobile,1,30.0,CC,Male,4.0,5,Laptop,1,Married,2,0,22.0,1.0,8.0,9.0,180.82
+2923,0,24.0,Mobile,3,7.0,CC,Female,4.0,4,Others,2,Married,5,0,16.0,2.0,2.0,7.0,320.17
+4115,0,7.0,Mobile,1,22.0,CC,Female,4.0,4,Laptop,1,Married,2,1,14.0,6.0,9.0,2.0,37.0
+788,1,8.0,Mobile,3,8.0,E wallet,Female,3.0,5,Others,4,Single,3,1,16.0,1.0,1.0,11.0,288.24
+4595,1,1.0,Mobile,1,22.0,CC,Male,3.0,4,Fashion,3,Married,9,1,13.0,1.0,8.0,8.0,261.1
+4521,0,14.0,Mobile,1,17.0,DC,Female,3.0,2,Mobile,3,Married,5,1,14.0,1.0,2.0,8.0,147.13
+1875,0,0.0,Mobile,1,6.0,DC,Female,3.0,3,Fashion,5,Married,2,0,11.0,0.0,1.0,7.0,174.12
+3987,1,1.0,Mobile,2,27.0,CC,Female,4.0,4,Mobile,4,Married,2,1,12.0,1.0,2.0,5.0,146.48
+54,0,10.0,Mobile,1,15.0,DC,Female,3.0,3,Mobile,2,Single,2,0,12.0,1.0,2.0,1.0,122.88
+1338,0,4.0,Computer,1,11.0,CC,Male,3.0,3,Laptop,5,Single,1,0,19.0,0.0,1.0,7.0,199.36
+5101,0,4.0,Mobile,1,13.0,COD,Female,3.0,5,Laptop,1,Married,2,0,13.0,6.0,7.0,8.0,171.27
+79,1,1.0,Mobile,1,35.0,CC,Male,3.0,3,Laptop,5,Divorced,8,1,19.0,0.0,1.0,0.0,166.73
+3123,0,20.0,Mobile,3,17.0,E wallet,Female,4.0,5,Fashion,2,Divorced,4,1,20.0,2.0,2.0,3.0,215.71
+4649,0,17.0,Mobile,1,13.0,UPI,Male,3.0,5,Grocery,1,Married,6,1,15.0,1.0,2.0,1.0,291.27
+3226,0,31.0,Mobile,3,23.0,E wallet,Male,3.0,4,Laptop,5,Single,10,0,15.0,2.0,3.0,3.0,179.05
+5050,0,28.0,Computer,1,8.0,DC,Female,3.0,4,Fashion,3,Married,9,0,18.0,1.0,2.0,3.0,230.02
+3492,0,7.0,Computer,3,14.0,DC,Female,2.0,4,Laptop,4,Divorced,2,0,18.0,2.0,2.0,3.0,168.02
+5251,0,7.0,Mobile,1,32.0,DC,Male,3.0,5,Laptop,4,Single,3,0,14.0,2.0,2.0,3.0,168.2
+3759,0,2.0,Mobile,1,7.0,DC,Male,4.0,5,Mobile,3,Married,3,0,15.0,1.0,2.0,1.0,140.63
+3244,0,1.0,Mobile,1,14.0,CC,Female,3.0,5,Laptop,5,Single,10,0,20.0,2.0,2.0,8.0,193.11
+1943,1,0.0,Mobile,1,8.0,CC,Male,2.0,3,Mobile,3,Single,7,0,17.0,2.0,2.0,1.0,143.82
+4960,1,1.0,Computer,1,7.0,CC,Male,3.0,5,Mobile,4,Married,3,0,16.0,2.0,2.0,1.0,150.96
+3322,0,16.0,Computer,1,9.0,CC,Male,3.0,4,Mobile,2,Single,7,1,15.0,1.0,3.0,3.0,150.15
+740,0,3.0,Mobile,3,35.0,DC,Male,3.0,3,Laptop,5,Married,9,0,19.0,1.0,1.0,3.0,141.15
+840,0,0.0,Mobile,1,25.0,CC,Male,3.0,3,Mobile,2,Divorced,4,0,11.0,1.0,1.0,2.0,136.69
+1686,0,11.0,Mobile,1,21.0,DC,Male,3.0,4,Fashion,1,Married,1,1,14.0,2.0,2.0,3.0,215.10000000000002
+3295,0,12.0,Computer,1,19.0,DC,Male,3.0,5,Laptop,5,Married,4,0,16.0,2.0,2.0,3.0,187.88
+5094,0,1.0,Mobile,1,8.0,CC,Female,3.0,4,Mobile,4,Single,3,0,19.0,2.0,3.0,2.0,145.96
+2467,0,2.0,Mobile,1,9.0,CC,Male,2.0,3,Mobile,5,Single,2,1,18.0,0.0,1.0,5.0,147.23
+1458,0,0.0,Mobile,1,24.0,DC,Male,3.0,3,Mobile,3,Married,1,0,12.0,0.0,1.0,2.0,127.74000000000001
+4677,0,1.0,Mobile,3,15.0,DC,Male,3.0,2,Laptop,4,Married,2,0,23.0,2.0,2.0,3.0,173.51
+5443,0,2.0,Mobile,1,8.0,DC,Male,3.0,4,Mobile,1,Married,3,0,12.0,1.0,2.0,4.0,145.44
+2690,0,8.0,Mobile,1,22.0,UPI,Female,2.0,4,Laptop,4,Married,1,1,11.0,0.0,1.0,2.0,147.88
+1920,0,27.0,Mobile,1,25.0,CC,Female,3.0,3,Laptop,5,Married,10,1,11.0,0.0,1.0,4.0,154.85
+3438,1,1.0,Computer,3,36.0,CC,Male,4.0,6,Laptop,5,Single,10,0,19.0,1.0,3.0,3.0,174.69
+3789,0,19.0,Mobile,1,7.0,COD,Male,4.0,4,Fashion,4,Married,3,0,13.0,7.0,8.0,8.0,199.41
+2910,0,10.0,Mobile,1,12.0,DC,Male,4.0,4,Laptop,4,Single,10,0,17.0,1.0,4.0,8.0,184.14
+60,0,6.0,Mobile,1,20.0,CC,Female,3.0,3,Mobile,4,Divorced,2,0,13.0,0.0,1.0,6.0,127.56
+432,0,8.0,Computer,1,8.0,DC,Female,3.0,3,Laptop,5,Married,3,0,11.0,0.0,1.0,0.0,150.93
+3222,0,21.0,Mobile,3,21.0,E wallet,Male,3.0,4,Laptop,5,Single,4,0,13.0,1.0,2.0,8.0,174.6
+671,1,0.0,Mobile,1,10.0,COD,Male,2.0,3,Mobile,2,Divorced,2,1,15.0,5.0,5.0,6.0,136.91
+850,1,18.0,Mobile,3,19.0,E wallet,Male,2.0,1,Grocery,3,Single,7,1,17.0,2.0,2.0,8.0,236.95
+3380,0,5.0,Mobile,1,19.0,CC,Female,3.0,4,Laptop,2,Divorced,2,1,12.0,1.0,9.0,6.0,183.55
+3681,0,6.0,Mobile,3,9.0,E wallet,Male,3.0,4,Laptop,4,Divorced,2,1,14.0,1.0,2.0,3.0,165.78
+445,0,25.0,Computer,1,25.0,CC,Male,2.0,3,Mobile,2,Divorced,1,0,18.0,1.0,1.0,2.0,142.58
+4692,0,21.0,Mobile,3,21.0,E wallet,Male,3.0,4,Laptop,5,Single,4,0,13.0,2.0,2.0,8.0,174.6
+3680,0,7.0,Computer,3,12.0,DC,Male,4.0,4,Laptop,2,Divorced,8,0,14.0,2.0,2.0,3.0,224.98
+5399,0,5.0,Computer,1,31.0,COD,Female,2.0,4,Laptop,1,Single,4,0,21.0,1.0,2.0,5.0,177.38
+639,0,1.0,Mobile,3,16.0,CC,Male,3.0,3,Mobile,4,Divorced,2,0,22.0,1.0,1.0,0.0,110.52000000000001
+4461,0,1.0,Mobile,3,17.0,CC,Female,4.0,5,Mobile,3,Single,3,0,13.0,1.0,2.0,1.0,137.0
+4908,1,1.0,Computer,3,36.0,CC,Male,4.0,6,Laptop,5,Single,10,0,19.0,2.0,3.0,3.0,174.69
+1399,0,0.0,Mobile,3,29.0,E wallet,Female,2.0,4,Laptop,1,Married,8,1,19.0,0.0,1.0,0.0,141.57
+260,1,10.0,Computer,1,10.0,COD,Male,2.0,3,Mobile,2,Single,19,1,23.0,1.0,1.0,0.0,122.85
+4621,0,9.0,Mobile,3,7.0,CC,Female,4.0,4,Laptop,3,Single,3,0,17.0,2.0,2.0,4.0,173.59
+2928,0,6.0,Mobile,3,11.0,DC,Female,3.0,4,Mobile,4,Divorced,4,0,12.0,2.0,2.0,3.0,164.31
+667,1,0.0,Computer,1,35.0,CC,Female,2.0,4,Laptop,3,Single,2,0,22.0,3.0,3.0,8.0,145.08
+2125,1,0.0,Computer,1,30.0,COD,Male,3.0,4,Fashion,5,Single,2,0,12.0,1.0,1.0,9.0,187.22
+4864,0,9.0,Mobile,3,10.0,DC,Male,4.0,4,Fashion,1,Married,8,0,14.0,1.0,2.0,9.0,203.23
+759,0,13.0,Mobile,3,16.0,COD,Female,2.0,4,Laptop,4,Married,8,0,12.0,1.0,1.0,3.0,168.52
+278,0,14.0,Mobile,3,6.0,E wallet,Male,2.0,2,Fashion,5,Divorced,2,0,16.0,1.0,1.0,7.0,183.92
+1607,0,10.0,Mobile,1,8.0,COD,Male,2.0,4,Laptop,5,Single,5,0,13.0,0.0,1.0,4.0,121.75999999999999
+437,1,0.0,Mobile,1,6.0,UPI,Male,3.0,3,Mobile,2,Single,2,1,13.0,5.0,7.0,8.0,126.86000000000001
+1203,0,0.0,Mobile,3,29.0,CC,Female,2.0,4,Laptop,3,Married,2,0,21.0,4.0,5.0,8.0,135.4
+3155,0,20.0,Computer,1,25.0,CC,Female,3.0,4,Fashion,3,Divorced,7,0,12.0,2.0,2.0,3.0,230.27
+5612,1,14.0,Computer,3,8.0,DC,Male,4.0,4,Laptop,3,Married,9,0,13.0,2.0,2.0,2.0,192.28
+2849,0,8.0,Computer,3,9.0,E wallet,Female,4.0,4,Mobile,3,Divorced,8,0,19.0,2.0,2.0,3.0,147.31
+1755,0,3.0,Mobile,1,8.0,DC,Female,2.0,5,Laptop,1,Single,3,0,20.0,1.0,1.0,2.0,160.91
+5313,1,1.0,Computer,3,10.0,CC,Female,4.0,4,Mobile,1,Single,3,1,13.0,2.0,2.0,1.0,140.69
+2659,0,18.0,Computer,3,8.0,DC,Female,3.0,3,Laptop,3,Married,5,0,22.0,3.0,5.0,7.0,151.54
+2946,0,16.0,Mobile,1,9.0,CC,Female,3.0,5,Mobile,5,Married,2,1,12.0,5.0,8.0,9.0,150.93
+3425,0,22.0,Mobile,1,13.0,DC,Male,4.0,5,Laptop,3,Single,4,0,14.0,1.0,3.0,3.0,167.4
+3810,0,12.0,Mobile,3,23.0,DC,Female,3.0,4,Laptop,4,Single,4,0,13.0,1.0,2.0,3.0,166.98
+1513,0,11.0,Mobile,3,6.0,DC,Female,2.0,4,Laptop,1,Single,5,0,22.0,0.0,1.0,7.0,186.86
+110,0,16.0,Mobile,3,22.0,E wallet,Female,3.0,3,Grocery,2,Divorced,6,1,22.0,0.0,2.0,9.0,260.64
+3894,1,12.0,Computer,3,14.0,CC,Female,4.0,4,Mobile,3,Married,4,1,12.0,5.0,8.0,8.0,151.55
+1204,0,2.0,Mobile,2,12.0,CC,Male,3.0,4,Mobile,4,Married,2,0,11.0,1.0,1.0,0.0,128.04
+5039,0,31.0,Mobile,3,14.0,E wallet,Male,3.0,2,Laptop,1,Married,2,1,19.0,1.0,2.0,10.0,177.2
+805,0,24.0,Computer,1,12.0,CC,Female,3.0,4,Mobile,3,Single,1,0,14.0,7.0,7.0,7.0,128.38
+1625,0,26.0,Mobile,1,9.0,CC,Male,2.0,3,Grocery,3,Married,4,1,16.0,1.0,1.0,3.0,275.84
+1404,0,10.0,Mobile,1,6.0,DC,Male,2.0,4,Laptop,3,Married,2,0,18.0,0.0,1.0,7.0,159.93
+4718,0,6.0,Computer,1,31.0,DC,Male,4.0,4,Laptop,1,Married,3,0,16.0,2.0,5.0,8.0,178.09
+1289,0,20.0,Mobile,1,31.0,CC,Male,2.0,3,Fashion,3,Single,3,0,23.0,1.0,12.0,11.0,186.33
+3770,0,20.0,Mobile,3,10.0,DC,Female,3.0,4,Grocery,4,Divorced,10,0,13.0,1.0,6.0,2.0,291.06
+4755,1,21.0,Mobile,1,9.0,DC,Male,3.0,4,Others,4,Single,9,1,16.0,8.0,14.0,9.0,317.46
+562,0,9.0,Mobile,1,16.0,CC,Male,3.0,3,Mobile,3,Single,5,0,21.0,2.0,3.0,9.0,125.19
+368,0,17.0,Mobile,2,6.0,DC,Female,2.0,4,Laptop,3,Single,5,0,11.0,1.0,1.0,2.0,159.85
+4723,0,1.0,Mobile,3,33.0,CC,Female,3.0,4,Laptop,1,Single,3,0,24.0,1.0,2.0,5.0,186.8
+2048,0,11.0,Computer,3,16.0,COD,Female,2.0,3,Laptop,1,Single,2,1,13.0,1.0,1.0,3.0,156.66
+5311,0,2.0,Mobile,1,34.0,CC,Female,3.0,6,Laptop,5,Married,2,0,22.0,2.0,2.0,1.0,173.77
+3868,0,1.0,Mobile,3,9.0,CC,Female,3.0,4,Mobile,3,Single,3,0,20.0,1.0,3.0,3.0,152.83
+4417,0,14.0,Mobile,1,9.0,CC,Male,3.0,4,Others,3,Married,2,0,16.0,4.0,4.0,10.0,319.36
+1883,0,14.0,Mobile,2,6.0,UPI,Male,2.0,4,Others,3,Married,2,0,12.0,1.0,2.0,10.0,291.89
+863,0,14.0,Computer,1,28.0,DC,Female,3.0,3,Laptop,2,Married,4,1,14.0,0.0,3.0,3.0,154.67
+1015,0,17.0,Mobile,1,13.0,CC,Female,2.0,3,Others,1,Married,1,1,14.0,1.0,1.0,10.0,290.49
+1633,1,0.0,Mobile,1,16.0,CC,Male,2.0,3,Mobile,4,Married,3,1,13.0,1.0,1.0,2.0,123.72999999999999
+3165,0,1.0,Mobile,3,35.0,E wallet,Male,4.0,4,Laptop,4,Divorced,3,0,21.0,2.0,2.0,5.0,187.72
+1047,0,2.0,Mobile,3,16.0,CC,Male,2.0,4,Laptop,3,Single,10,0,11.0,1.0,1.0,4.0,158.69
+4294,0,1.0,Mobile,2,32.0,DC,Female,4.0,4,Mobile,3,Married,3,0,24.0,3.0,6.0,8.0,154.42
+781,0,7.0,Mobile,1,16.0,COD,Female,2.0,1,Mobile,3,Divorced,1,0,17.0,1.0,1.0,0.0,125.85
+5345,0,17.0,Mobile,1,22.0,DC,Male,4.0,5,Grocery,3,Married,3,0,16.0,3.0,7.0,12.0,301.03
+4240,0,4.0,Mobile,1,7.0,DC,Male,3.0,5,Laptop,1,Married,3,1,13.0,2.0,4.0,1.0,176.26
+1573,0,8.0,Computer,3,6.0,E wallet,Female,3.0,3,Fashion,3,Single,2,0,14.0,1.0,1.0,8.0,187.89
+1322,0,9.0,Computer,3,21.0,E wallet,Male,2.0,5,Laptop,1,Married,2,0,24.0,4.0,11.0,11.0,154.06
+3400,0,7.0,Computer,3,24.0,DC,Male,3.0,4,Grocery,3,Single,3,0,16.0,6.0,7.0,1.0,299.44
+428,0,13.0,Mobile,1,16.0,CC,Female,2.0,4,Mobile,2,Single,1,1,20.0,2.0,2.0,3.0,123.41999999999999
+2132,0,28.0,Computer,1,8.0,DC,Male,3.0,3,Fashion,4,Married,4,0,18.0,0.0,1.0,3.0,209.76
+1424,0,19.0,Mobile,2,11.0,CC,Male,3.0,3,Laptop,4,Married,2,1,22.0,1.0,1.0,2.0,150.21
+4816,1,1.0,Mobile,1,32.0,DC,Male,3.0,4,Mobile,1,Single,3,1,25.0,1.0,2.0,2.0,152.95
+1882,0,0.0,Computer,1,16.0,DC,Male,2.0,3,Fashion,5,Married,2,0,21.0,0.0,1.0,7.0,187.93
+504,0,1.0,Mobile,2,14.0,CC,Male,3.0,4,Mobile,2,Married,2,0,13.0,0.0,1.0,4.0,149.36
+4111,0,21.0,Computer,1,7.0,CC,Female,4.0,4,Fashion,4,Married,2,0,19.0,1.0,2.0,13.0,244.57
+1874,0,11.0,Mobile,1,6.0,DC,Female,2.0,1,Laptop,1,Single,1,0,13.0,0.0,1.0,8.0,176.25
+4364,1,2.0,Mobile,1,36.0,CC,Male,4.0,4,Laptop,5,Married,9,1,20.0,2.0,2.0,1.0,191.73
+2765,0,14.0,Mobile,1,7.0,DC,Male,3.0,3,Mobile,1,Married,4,0,22.0,0.0,1.0,0.0,127.82
+3821,0,8.0,Computer,1,17.0,COD,Male,4.0,5,Laptop,3,Married,3,0,15.0,3.0,8.0,8.0,175.63
+5258,0,14.0,Computer,1,15.0,DC,Male,4.0,4,Laptop,1,Married,5,1,19.0,2.0,3.0,3.0,165.69
+2578,0,3.0,Mobile,1,22.0,DC,Male,3.0,3,Mobile,1,Married,2,0,12.0,0.0,1.0,8.0,128.62
+5627,0,1.0,Mobile,1,11.0,DC,Male,3.0,2,Laptop,4,Married,3,1,21.0,1.0,2.0,4.0,186.42
+1955,0,0.0,Mobile,1,11.0,COD,Male,2.0,4,Fashion,1,Married,2,1,16.0,1.0,1.0,3.0,228.07999999999998
+231,0,15.0,Mobile,1,8.0,UPI,Male,3.0,4,Laptop,2,Single,4,0,23.0,0.0,1.0,0.0,167.81
+1565,0,9.0,Mobile,1,11.0,DC,Male,3.0,3,Laptop,4,Single,9,0,16.0,2.0,3.0,7.0,159.14
+1427,0,28.0,Mobile,3,6.0,DC,Male,3.0,3,Fashion,1,Married,4,0,14.0,0.0,1.0,0.0,202.39
+822,1,15.0,Mobile,3,11.0,DC,Male,3.0,3,Fashion,4,Single,10,1,19.0,5.0,7.0,7.0,184.46
+106,0,15.0,Mobile,1,10.0,COD,Male,2.0,3,Others,2,Divorced,2,0,16.0,0.0,11.0,15.0,292.32
+4121,0,6.0,Mobile,3,7.0,E wallet,Female,3.0,4,Fashion,1,Married,3,0,20.0,4.0,6.0,3.0,229.22
+1510,0,23.0,Mobile,1,17.0,DC,Female,2.0,3,Others,4,Single,4,0,16.0,0.0,4.0,4.0,299.26
+3875,0,17.0,Mobile,1,22.0,DC,Male,4.0,5,Grocery,3,Married,3,0,16.0,5.0,7.0,12.0,301.03
+4854,0,7.0,Mobile,1,7.0,DC,Female,3.0,5,Laptop,1,Single,2,0,15.0,2.0,2.0,5.0,194.49
+4728,1,19.0,Mobile,1,9.0,CC,Male,4.0,4,Others,5,Married,7,1,14.0,2.0,2.0,5.0,323.59
+4962,0,7.0,Computer,3,14.0,DC,Female,2.0,4,Laptop,4,Married,2,0,18.0,1.0,2.0,3.0,168.02
+3293,0,19.0,Mobile,1,9.0,DC,Female,4.0,5,Mobile,3,Single,3,0,15.0,2.0,2.0,1.0,147.74
+1752,0,18.0,Mobile,1,16.0,DC,Male,3.0,3,Mobile,1,Married,4,0,21.0,0.0,1.0,2.0,126.53999999999999
+4986,0,12.0,Mobile,2,7.0,UPI,Male,3.0,2,Mobile,3,Married,3,0,14.0,4.0,6.0,1.0,153.44
+4220,0,6.0,Mobile,1,7.0,CC,Male,3.0,4,Laptop,1,Married,3,1,23.0,6.0,8.0,9.0,186.62
+2710,1,0.0,Computer,3,30.0,COD,Male,2.0,1,Mobile,5,Single,2,0,17.0,0.0,1.0,0.0,110.91
+5622,0,13.0,Mobile,3,31.0,E wallet,Female,3.0,5,Grocery,1,Married,2,0,12.0,4.0,2.0,7.0,245.31
+5558,0,7.0,Computer,1,14.0,DC,Male,3.0,4,Laptop,3,Married,3,0,21.0,1.0,3.0,9.0,184.68
+3311,0,10.0,Mobile,3,7.0,DC,Male,3.0,4,Laptop,2,Divorced,3,1,15.0,3.0,5.0,12.0,187.01
+2510,0,17.0,Computer,2,7.0,UPI,Male,2.0,3,Laptop,1,Married,5,1,11.0,1.0,1.0,2.0,157.43
+4409,0,19.0,Computer,1,14.0,DC,Male,4.0,2,Laptop,3,Married,6,0,18.0,2.0,2.0,3.0,189.34
+4778,0,1.0,Mobile,1,9.0,CC,Male,4.0,2,Mobile,5,Single,9,0,14.0,1.0,2.0,2.0,159.24
+3199,0,7.0,Computer,1,13.0,DC,Male,2.0,4,Laptop,2,Married,5,0,24.0,5.0,5.0,8.0,202.25
+3128,0,9.0,Mobile,1,23.0,DC,Male,4.0,4,Fashion,3,Divorced,6,1,13.0,1.0,2.0,1.0,201.32
+2813,0,22.0,Computer,3,8.0,CC,Male,3.0,4,Laptop,4,Married,3,0,14.0,1.0,1.0,8.0,153.9
+2755,0,13.0,Mobile,3,8.0,E wallet,Female,3.0,3,Laptop,4,Married,4,0,14.0,1.0,5.0,10.0,156.77
+291,0,10.0,Computer,1,8.0,DC,Male,2.0,3,Mobile,2,Divorced,2,1,23.0,1.0,1.0,0.0,117.02000000000001
+1200,0,15.0,Mobile,1,14.0,DC,Male,2.0,3,Mobile,3,Single,5,0,13.0,1.0,1.0,0.0,139.68
+2426,0,8.0,Mobile,1,22.0,DC,Female,3.0,4,Fashion,4,Single,2,0,19.0,3.0,3.0,3.0,186.06
+3216,0,13.0,Mobile,1,9.0,COD,Female,4.0,5,Laptop,3,Single,3,0,12.0,3.0,12.0,11.0,170.53
+4814,0,13.0,Mobile,2,9.0,DC,Female,3.0,5,Laptop,1,Married,10,0,12.0,2.0,2.0,5.0,177.04
+2799,0,18.0,Mobile,3,26.0,DC,Female,2.0,3,Laptop,3,Single,9,0,15.0,0.0,1.0,1.0,148.5
+3876,1,1.0,Computer,3,19.0,UPI,Male,3.0,4,Laptop,1,Single,5,1,25.0,4.0,7.0,8.0,170.81
+2216,1,10.0,Mobile,1,23.0,DC,Female,3.0,3,Mobile,4,Married,2,0,13.0,1.0,1.0,0.0,122.1
+4156,0,13.0,Mobile,1,13.0,CC,Male,3.0,5,Fashion,5,Married,6,0,16.0,2.0,2.0,3.0,224.91
+572,0,10.0,Computer,3,26.0,COD,Female,2.0,3,Mobile,2,Divorced,2,0,15.0,0.0,1.0,2.0,121.57
+5074,0,29.0,Computer,1,15.0,CC,Male,3.0,5,Grocery,4,Married,3,1,16.0,3.0,16.0,1.0,260.77
+4788,0,11.0,Mobile,3,23.0,E wallet,Male,4.0,5,Laptop,3,Married,6,0,20.0,2.0,2.0,1.0,188.34
+1864,0,2.0,Computer,1,6.0,DC,Male,3.0,5,Mobile,1,Married,2,0,18.0,0.0,2.0,8.0,127.19999999999999
+694,0,1.0,Mobile,1,8.0,DC,Male,3.0,4,Mobile,4,Divorced,1,0,17.0,0.0,1.0,4.0,132.01
+3721,1,10.0,Mobile,3,16.0,E wallet,Male,3.0,4,Fashion,1,Married,6,0,12.0,1.0,5.0,3.0,225.96
+3334,0,5.0,Mobile,1,18.0,DC,Male,3.0,4,Mobile,2,Divorced,5,1,20.0,2.0,2.0,3.0,148.56
+4410,1,1.0,Computer,1,17.0,CC,Male,4.0,4,Fashion,3,Married,8,0,12.0,1.0,2.0,3.0,225.48
+5503,0,3.0,Mobile,1,14.0,DC,Male,3.0,4,Mobile,5,Single,5,0,15.0,1.0,2.0,3.0,145.62
+3893,0,27.0,Mobile,1,31.0,CC,Male,3.0,2,Fashion,1,Married,5,0,16.0,1.0,2.0,3.0,195.05
+2384,1,0.0,Mobile,2,15.0,COD,Female,3.0,3,Mobile,3,Married,2,0,15.0,2.0,2.0,2.0,127.41999999999999
+2057,0,6.0,Mobile,1,19.0,DC,Female,2.0,3,Mobile,1,Single,4,0,18.0,1.0,1.0,2.0,134.52
+987,1,1.0,Mobile,1,8.0,CC,Male,2.0,3,Laptop,4,Married,5,0,11.0,0.0,1.0,4.0,148.55
+2506,0,11.0,Mobile,1,8.0,CC,Female,2.0,4,Fashion,3,Married,4,1,19.0,0.0,1.0,2.0,177.56
+2553,0,7.0,Mobile,1,11.0,CC,Male,2.0,4,Laptop,1,Married,2,0,14.0,0.0,4.0,13.0,139.86
+1592,0,7.0,Mobile,1,8.0,DC,Male,2.0,4,Laptop,5,Married,7,0,13.0,0.0,5.0,9.0,159.57
+3139,0,13.0,Computer,1,15.0,DC,Female,3.0,4,Mobile,3,Divorced,3,0,12.0,1.0,2.0,8.0,162.55
+1637,0,4.0,Computer,3,11.0,E wallet,Female,3.0,3,Mobile,4,Married,2,0,11.0,0.0,2.0,2.0,127.88999999999999
+3587,0,31.0,Mobile,3,10.0,DC,Female,3.0,5,Laptop,2,Single,7,0,18.0,1.0,2.0,6.0,176.71
+3045,0,1.0,Mobile,3,7.0,DC,Male,3.0,4,Laptop,3,Divorced,3,0,18.0,3.0,8.0,8.0,177.96
+2762,0,4.0,Mobile,3,8.0,DC,Male,3.0,3,Mobile,3,Married,1,0,19.0,0.0,1.0,2.0,130.67
+3413,0,20.0,Mobile,1,14.0,CC,Male,4.0,4,Fashion,3,Married,8,0,14.0,1.0,2.0,8.0,233.45
+753,0,15.0,Computer,2,8.0,CC,Male,3.0,1,Laptop,5,Divorced,8,0,16.0,0.0,1.0,3.0,162.72
+486,0,8.0,Mobile,1,13.0,UPI,Male,2.0,3,Fashion,3,Single,4,0,21.0,0.0,1.0,6.0,202.21
+3744,0,23.0,Mobile,1,14.0,DC,Male,3.0,4,Fashion,4,Married,5,0,15.0,1.0,2.0,3.0,229.66
+724,1,6.0,Mobile,3,15.0,E wallet,Female,2.0,5,Laptop,3,Single,9,0,13.0,1.0,1.0,3.0,153.46
+2355,0,28.0,Mobile,1,7.0,CC,Male,2.0,1,Grocery,1,Married,3,0,13.0,0.0,2.0,0.0,247.32
+5615,0,14.0,Mobile,1,9.0,DC,Male,1.0,5,Mobile,3,Single,4,0,15.0,1.0,3.0,3.0,153.09
+521,0,26.0,Mobile,3,14.0,E wallet,Male,3.0,3,Grocery,2,Divorced,6,0,14.0,0.0,2.0,3.0,218.36
+3006,0,23.0,Mobile,1,7.0,COD,Female,3.0,5,Grocery,3,Single,9,1,13.0,1.0,2.0,8.0,264.64
+4697,0,1.0,Computer,1,17.0,DC,Male,3.0,4,Fashion,5,Married,3,0,22.0,1.0,2.0,3.0,212.93
+76,0,22.0,Computer,1,24.0,DC,Male,3.0,3,Laptop,2,Married,2,1,15.0,0.0,1.0,7.0,168.04
+2305,0,14.0,Computer,3,7.0,E wallet,Female,3.0,3,Laptop,5,Married,1,0,17.0,0.0,1.0,7.0,141.03
+2547,0,11.0,Mobile,1,10.0,CC,Female,2.0,3,Mobile,3,Married,8,0,19.0,0.0,1.0,0.0,133.06
+2570,0,18.0,Mobile,1,34.0,COD,Female,2.0,4,Grocery,4,Single,2,0,11.0,1.0,8.0,6.0,267.04
+3353,1,1.0,Mobile,1,25.0,UPI,Female,4.0,4,Mobile,2,Single,3,0,20.0,2.0,2.0,1.0,151.93
+154,0,23.0,Mobile,1,10.0,DC,Male,3.0,3,Others,4,Married,4,0,14.0,1.0,1.0,6.0,291.44
+4030,0,10.0,Mobile,3,17.0,COD,Female,4.0,5,Laptop,3,Married,3,1,14.0,2.0,2.0,8.0,181.73
+680,0,18.0,Computer,3,15.0,DC,Female,3.0,4,Laptop,3,Divorced,2,0,13.0,0.0,4.0,12.0,155.93
+2538,0,11.0,Computer,1,16.0,CC,Female,2.0,4,Mobile,4,Single,2,0,22.0,0.0,3.0,3.0,124.4
+3874,0,28.0,Mobile,1,29.0,CC,Female,4.0,4,Grocery,3,Married,5,0,16.0,3.0,5.0,8.0,299.26
+1536,0,10.0,Mobile,1,15.0,CC,Female,4.0,3,Mobile,4,Single,2,0,16.0,0.0,1.0,3.0,122.78999999999999
+4031,0,5.0,Mobile,1,27.0,DC,Male,3.0,4,Laptop,3,Married,3,0,12.0,1.0,2.0,3.0,166.97
+1619,0,0.0,Mobile,1,9.0,CC,Male,3.0,4,Mobile,3,Single,2,0,17.0,1.0,1.0,0.0,132.3
+5529,1,1.0,Mobile,3,20.0,E wallet,Female,3.0,4,Laptop,3,Single,5,1,12.0,1.0,3.0,3.0,223.54
+2876,0,14.0,Mobile,1,11.0,CC,Female,3.0,4,Others,3,Divorced,3,0,16.0,1.0,10.0,10.0,315.33
+966,0,6.0,Mobile,1,31.0,DC,Male,2.0,4,Laptop,4,Single,2,0,13.0,0.0,1.0,2.0,143.2
+714,0,15.0,Mobile,3,10.0,E wallet,Male,2.0,3,Laptop,5,Single,8,0,13.0,1.0,1.0,5.0,151.55
+2829,1,10.0,Mobile,3,16.0,CC,Male,4.0,5,Fashion,2,Single,3,0,17.0,1.0,5.0,3.0,221.19
+2622,0,19.0,Mobile,1,8.0,CC,Male,2.0,3,Others,1,Married,8,1,16.0,2.0,2.0,2.0,293.28
+2140,0,10.0,Mobile,3,16.0,DC,Female,2.0,4,Laptop,1,Married,3,1,14.0,1.0,1.0,0.0,166.94
+1689,0,8.0,Mobile,1,11.0,COD,Male,3.0,3,Fashion,4,Single,1,0,13.0,1.0,1.0,13.0,180.95
+4581,1,1.0,Mobile,1,32.0,COD,Female,4.0,5,Mobile,4,Married,7,0,17.0,2.0,2.0,2.0,150.46
+3291,0,14.0,Computer,1,23.0,CC,Male,3.0,5,Laptop,3,Single,8,0,15.0,2.0,2.0,1.0,175.94
+773,0,16.0,Mobile,1,9.0,DC,Male,3.0,5,Others,2,Divorced,4,0,16.0,1.0,1.0,7.0,297.4
+99,0,4.0,Computer,1,6.0,CC,Male,2.0,5,Laptop,3,Divorced,1,0,12.0,1.0,1.0,4.0,143.45
+3197,0,3.0,Mobile,3,10.0,CC,Female,4.0,4,Laptop,3,Divorced,3,0,15.0,1.0,2.0,3.0,180.61
+1277,0,4.0,Mobile,1,8.0,CC,Female,2.0,5,Mobile,1,Married,2,1,11.0,1.0,1.0,0.0,111.28999999999999
+3772,0,1.0,Mobile,1,27.0,DC,Male,4.0,4,Laptop,3,Single,2,0,15.0,2.0,2.0,3.0,147.72
+4972,0,17.0,Computer,1,34.0,DC,Female,3.0,4,Fashion,5,Married,10,0,12.0,2.0,2.0,2.0,233.2
+5007,0,8.0,Computer,1,8.0,CC,Male,4.0,5,Laptop,5,Single,2,0,21.0,1.0,5.0,10.0,178.43
+1994,0,26.0,Mobile,1,29.0,DC,Female,3.0,3,Grocery,1,Single,7,0,18.0,3.0,2.0,8.0,242.75
+126,0,12.0,Computer,1,8.0,COD,Female,3.0,3,Fashion,3,Single,1,0,25.0,10.0,11.0,3.0,209.38
+4161,0,23.0,Computer,1,15.0,DC,Male,4.0,5,Laptop,4,Married,3,0,24.0,1.0,2.0,8.0,176.3
+760,0,0.0,Mobile,3,16.0,DC,Male,2.0,3,Laptop,2,Single,1,0,14.0,0.0,1.0,1.0,149.5
+1455,0,24.0,Computer,1,6.0,CC,Female,1.0,4,Fashion,5,Single,4,0,20.0,4.0,12.0,8.0,174.84
+2497,0,0.0,Mobile,1,11.0,CC,Male,3.0,3,Mobile,1,Single,2,0,18.0,0.0,2.0,2.0,131.17
+3113,0,4.0,Computer,3,29.0,UPI,Female,4.0,4,Fashion,5,Divorced,2,0,12.0,3.0,8.0,9.0,209.12
+5252,0,19.0,Mobile,1,35.0,COD,Male,4.0,4,Mobile,1,Married,6,0,21.0,2.0,2.0,4.0,146.32
+3463,0,10.0,Mobile,1,19.0,CC,Female,3.0,5,Fashion,2,Single,2,0,12.0,6.0,8.0,3.0,213.58
+4744,0,16.0,Computer,1,15.0,DC,Male,4.0,4,Others,1,Married,3,0,16.0,6.0,15.0,10.0,309.3
+2172,0,1.0,Computer,1,12.0,DC,Male,3.0,4,Mobile,3,Married,2,1,14.0,1.0,1.0,2.0,127.03
+2080,0,21.0,Mobile,1,12.0,DC,Male,3.0,4,Laptop,3,Single,3,0,13.0,0.0,2.0,2.0,142.4
+1326,0,11.0,Mobile,3,16.0,DC,Female,3.0,3,Laptop,1,Married,2,0,11.0,0.0,1.0,9.0,153.43
+5201,0,2.0,Mobile,3,12.0,CC,Male,3.0,4,Laptop,5,Single,2,0,19.0,1.0,2.0,3.0,209.63
+2142,1,0.0,Mobile,1,16.0,CC,Male,2.0,3,Mobile,3,Married,2,0,20.0,1.0,1.0,0.0,123.77000000000001
+1570,0,10.0,Mobile,1,9.0,DC,Male,3.0,4,Mobile,1,Married,4,0,17.0,0.0,1.0,0.0,121.77000000000001
+4802,0,12.0,Mobile,3,16.0,E wallet,Male,4.0,5,Mobile,4,Married,2,0,20.0,1.0,2.0,3.0,153.99
+4987,0,2.0,Computer,1,13.0,DC,Male,3.0,5,Mobile,3,Married,3,1,15.0,2.0,2.0,3.0,152.03
+2076,1,0.0,Mobile,1,16.0,CC,Female,3.0,4,Mobile,5,Single,2,1,15.0,1.0,1.0,0.0,126.0
+2594,1,0.0,Mobile,3,15.0,E wallet,Female,3.0,5,Mobile,4,Single,2,0,13.0,2.0,2.0,2.0,127.6
+4131,0,30.0,Computer,1,7.0,DC,Male,3.0,4,Laptop,3,Married,3,0,22.0,1.0,2.0,10.0,188.06
+2966,0,3.0,Mobile,1,29.0,DC,Female,4.0,3,Fashion,4,Married,9,0,19.0,6.0,2.0,3.0,244.95999999999998
+5624,0,1.0,Mobile,3,12.0,UPI,Female,2.0,5,Mobile,3,Single,2,0,19.0,2.0,2.0,1.0,154.66
+5042,0,10.0,Mobile,1,8.0,COD,Female,4.0,6,Fashion,5,Married,4,1,22.0,8.0,8.0,3.0,227.52
+657,0,3.0,Mobile,1,26.0,UPI,Male,2.0,3,Laptop,5,Divorced,1,0,15.0,1.0,1.0,2.0,199.57
+5066,0,8.0,Mobile,1,27.0,COD,Female,3.0,2,Mobile,3,Married,2,0,18.0,2.0,2.0,1.0,150.85
+31,0,0.0,Mobile,1,13.0,CC,Male,2.0,4,Laptop,3,Divorced,3,0,17.0,1.0,1.0,0.0,161.32
+4071,0,2.0,Computer,1,23.0,CC,Male,3.0,4,Mobile,3,Single,3,0,15.0,1.0,2.0,5.0,146.44
+4098,0,1.0,Mobile,1,19.0,UPI,Male,4.0,4,Mobile,1,Single,3,0,14.0,2.0,2.0,5.0,151.47
+1112,1,0.0,Mobile,3,6.0,DC,Male,2.0,5,Laptop,4,Single,7,0,15.0,0.0,1.0,0.0,167.35
+4899,0,1.0,Mobile,1,9.0,DC,Female,3.0,4,Laptop,1,Married,2,0,19.0,3.0,3.0,3.0,167.27
+2677,1,0.0,Computer,1,16.0,DC,Male,3.0,4,Mobile,1,Single,2,1,24.0,1.0,1.0,0.0,124.38999999999999
+4112,0,9.0,Mobile,1,18.0,CC,Male,3.0,4,Mobile,3,Married,9,1,12.0,1.0,3.0,3.0,151.6
+1951,0,7.0,Computer,1,16.0,DC,Female,3.0,4,Mobile,1,Single,2,0,16.0,1.0,1.0,3.0,125.53
+304,0,19.0,Mobile,1,8.0,DC,Male,2.0,3,Grocery,3,Divorced,7,0,13.0,1.0,1.0,1.0,278.61
+950,0,5.0,Mobile,1,16.0,CC,Male,0.0,3,Fashion,1,Single,3,0,25.0,0.0,1.0,3.0,212.44
+5143,0,8.0,Mobile,1,9.0,COD,Female,4.0,4,Laptop,1,Single,3,0,12.0,5.0,5.0,12.0,191.87
+325,0,4.0,Mobile,3,8.0,DC,Male,3.0,3,Laptop,2,Single,5,1,13.0,1.0,1.0,5.0,165.82
+1321,0,7.0,Mobile,3,34.0,E wallet,Female,3.0,4,Laptop,3,Married,2,0,21.0,1.0,1.0,7.0,167.12
+733,0,26.0,Mobile,1,13.0,CC,Female,2.0,3,Others,3,Married,4,0,18.0,1.0,4.0,7.0,286.06
+1629,0,0.0,Computer,1,17.0,CC,Male,2.0,3,Laptop,5,Married,2,1,13.0,1.0,3.0,3.0,147.41
+1335,0,2.0,Mobile,1,34.0,CC,Female,3.0,4,Mobile,5,Single,2,0,14.0,0.0,1.0,4.0,137.85
+2175,0,14.0,Mobile,1,18.0,DC,Male,2.0,3,Mobile,1,Married,4,1,11.0,1.0,1.0,0.0,147.66
+5137,0,8.0,Computer,1,33.0,COD,Female,4.0,5,Mobile,3,Married,3,0,21.0,2.0,2.0,1.0,145.29
+1632,0,11.0,Mobile,1,29.0,DC,Male,2.0,3,Laptop,1,Married,10,0,14.0,0.0,1.0,2.0,157.45
+2159,0,13.0,Mobile,1,20.0,CC,Male,2.0,4,Others,3,Single,2,0,16.0,3.0,4.0,9.0,296.26
+5190,0,5.0,Mobile,3,15.0,DC,Male,3.0,4,Fashion,1,Married,3,0,19.0,3.0,2.0,10.0,232.93
+2149,0,21.0,Computer,1,6.0,CC,Male,2.0,1,Grocery,1,Single,3,0,22.0,1.0,2.0,1.0,268.85
+1363,0,26.0,Mobile,3,8.0,DC,Female,3.0,4,Grocery,1,Married,3,0,16.0,0.0,2.0,7.0,254.26999999999998
+640,0,11.0,Computer,1,9.0,UPI,Male,3.0,3,Mobile,3,Divorced,4,0,16.0,2.0,2.0,2.0,128.21
+2526,0,22.0,Mobile,1,12.0,DC,Female,2.0,4,Grocery,3,Married,3,1,19.0,2.0,2.0,12.0,239.66000000000003
+2075,0,3.0,Mobile,1,14.0,DC,Female,3.0,1,Fashion,5,Married,1,1,12.0,0.0,1.0,3.0,214.16000000000003
+1201,1,0.0,Mobile,3,8.0,E wallet,Male,2.0,4,Laptop,4,Single,8,1,12.0,2.0,2.0,2.0,199.07
+4178,0,27.0,Mobile,3,9.0,DC,Female,4.0,5,Grocery,1,Married,4,0,17.0,1.0,4.0,8.0,279.27
+1613,0,18.0,Mobile,1,26.0,CC,Male,3.0,3,Grocery,1,Married,1,1,14.0,2.0,2.0,10.0,234.95999999999998
+4271,1,1.0,Computer,1,14.0,DC,Male,4.0,6,Laptop,3,Single,3,1,25.0,2.0,2.0,7.0,185.74
+858,0,7.0,Mobile,1,8.0,COD,Female,3.0,3,Laptop,2,Single,2,0,11.0,1.0,4.0,11.0,166.87
+935,1,0.0,Computer,1,15.0,CC,Male,2.0,3,Mobile,5,Single,3,1,11.0,0.0,1.0,0.0,131.72
+1987,0,11.0,Mobile,3,15.0,E wallet,Male,3.0,4,Mobile,4,Married,1,0,19.0,0.0,1.0,2.0,128.99
+3613,0,8.0,Computer,2,18.0,DC,Male,3.0,5,Laptop,4,Divorced,6,0,12.0,1.0,2.0,9.0,169.9
+4719,0,12.0,Mobile,1,9.0,CC,Male,4.0,4,Mobile,3,Married,8,1,14.0,1.0,2.0,2.0,155.57
+3543,0,1.0,Mobile,1,16.0,DC,Male,3.0,4,Mobile,5,Single,3,0,26.0,1.0,2.0,1.0,150.52
+427,0,29.0,Mobile,1,15.0,CC,Male,2.0,3,Grocery,2,Divorced,8,0,11.0,0.0,1.0,3.0,211.02999999999997
+3279,1,1.0,Mobile,1,7.0,DC,Female,3.0,5,Mobile,5,Divorced,3,1,12.0,1.0,2.0,1.0,148.19
+5626,0,13.0,Mobile,1,13.0,CC,Male,3.0,5,Fashion,5,Married,6,0,16.0,1.0,2.0,3.0,224.91
+3764,0,7.0,Mobile,1,15.0,DC,Male,4.0,4,Laptop,3,Single,4,1,18.0,1.0,2.0,1.0,188.88
+785,0,10.0,Mobile,1,6.0,DC,Male,2.0,3,Mobile,3,Divorced,2,0,22.0,0.0,1.0,1.0,112.22999999999999
+994,0,11.0,Mobile,3,20.0,DC,Male,3.0,3,Laptop,4,Married,1,0,11.0,5.0,7.0,7.0,199.24
+3769,0,13.0,Mobile,1,13.0,DC,Female,3.0,4,Fashion,4,Single,6,0,19.0,1.0,3.0,3.0,208.76
+1004,0,15.0,Mobile,1,15.0,UPI,Male,3.0,4,Others,1,Single,9,0,16.0,1.0,1.0,1.0,296.13
+1947,0,3.0,Mobile,1,8.0,CC,Female,2.0,4,Laptop,1,Single,6,1,24.0,1.0,1.0,0.0,168.77
+2652,0,1.0,Mobile,1,7.0,CC,Female,3.0,3,Mobile,5,Married,2,0,25.0,1.0,1.0,2.0,135.91
+5561,0,29.0,Mobile,2,33.0,UPI,Male,4.0,2,Others,4,Married,6,1,16.0,2.0,2.0,5.0,321.36
+5369,0,31.0,Mobile,1,8.0,CC,Male,4.0,6,Fashion,1,Married,5,0,21.0,2.0,2.0,1.0,233.82999999999998
+2714,1,0.0,Mobile,3,19.0,E wallet,Female,2.0,3,Laptop,3,Single,4,1,11.0,0.0,2.0,2.0,198.54
+3410,1,1.0,Mobile,1,29.0,DC,Female,3.0,4,Mobile,3,Divorced,6,1,12.0,1.0,2.0,2.0,146.32
+806,0,3.0,Computer,1,15.0,CC,Female,3.0,3,Laptop,3,Single,8,1,18.0,1.0,1.0,7.0,146.95
+1935,0,6.0,Mobile,1,13.0,CC,Male,2.0,3,Fashion,3,Married,1,0,11.0,1.0,3.0,3.0,216.91000000000003
+5175,0,8.0,Computer,1,8.0,UPI,Male,4.0,4,Mobile,5,Married,7,0,15.0,2.0,2.0,4.0,154.96
+4397,0,26.0,Computer,3,9.0,DC,Male,4.0,5,Others,3,Single,3,1,16.0,2.0,16.0,13.0,315.68
+620,0,28.0,Computer,1,24.0,CC,Male,3.0,3,Laptop,4,Divorced,4,1,14.0,6.0,6.0,7.0,163.85
+4064,0,31.0,Mobile,3,28.0,DC,Female,4.0,4,Grocery,1,Married,6,1,16.0,2.0,2.0,1.0,303.75
+5519,0,8.0,Mobile,3,10.0,CC,Female,4.0,5,Laptop,1,Married,5,1,13.0,1.0,2.0,2.0,206.03
+3849,0,13.0,Computer,1,11.0,CC,Female,3.0,4,Laptop,3,Single,2,0,14.0,4.0,4.0,9.0,175.42
+4155,0,10.0,Computer,1,30.0,CC,Male,3.0,2,Laptop,1,Married,6,0,18.0,1.0,2.0,4.0,150.71
+3788,0,14.0,Computer,1,15.0,DC,Male,4.0,4,Laptop,1,Married,5,1,19.0,3.0,3.0,3.0,165.69
+2842,0,27.0,Mobile,3,13.0,E wallet,Male,3.0,4,Laptop,3,Divorced,4,1,21.0,1.0,5.0,6.0,148.06
+4047,0,16.0,Mobile,1,13.0,CC,Male,3.0,4,Fashion,5,Married,11,0,14.0,4.0,2.0,8.0,258.48
+2460,0,7.0,Mobile,1,13.0,CC,Male,3.0,3,Mobile,1,Single,2,0,13.0,0.0,1.0,0.0,129.72
+3118,0,21.0,Mobile,1,9.0,CC,Female,4.0,4,Laptop,2,Married,7,0,14.0,1.0,2.0,5.0,175.7
+5163,0,1.0,Mobile,1,8.0,COD,Male,3.0,4,Mobile,1,Married,6,0,12.0,1.0,2.0,3.0,157.29
+2833,1,1.0,Computer,1,14.0,DC,Male,4.0,6,Laptop,3,Single,3,1,25.0,2.0,2.0,7.0,185.74
+5057,0,31.0,Mobile,3,10.0,DC,Female,3.0,5,Laptop,1,Single,7,0,18.0,1.0,2.0,6.0,176.71
+4032,0,8.0,Mobile,3,11.0,DC,Male,4.0,4,Fashion,1,Married,4,1,14.0,1.0,2.0,3.0,222.13
+4560,0,13.0,Computer,1,7.0,DC,Male,3.0,4,Others,3,Married,3,1,16.0,1.0,2.0,7.0,316.97
+3835,0,10.0,Mobile,1,19.0,DC,Female,4.0,4,Laptop,3,Married,11,1,13.0,1.0,2.0,2.0,171.63
+704,1,0.0,Mobile,3,15.0,E wallet,Female,3.0,3,Laptop,5,Single,1,1,17.0,0.0,1.0,3.0,182.24
+4763,0,19.0,Mobile,1,9.0,DC,Female,4.0,5,Mobile,3,Single,3,0,15.0,2.0,2.0,1.0,147.74
+506,0,17.0,Mobile,1,14.0,DC,Male,3.0,1,Mobile,2,Divorced,3,1,24.0,1.0,1.0,2.0,128.18
+4932,0,30.0,Computer,1,16.0,CC,Female,4.0,4,Mobile,3,Married,4,0,20.0,2.0,2.0,4.0,154.42
+3059,0,5.0,Mobile,1,16.0,DC,Male,3.0,5,Mobile,4,Single,2,1,17.0,2.0,3.0,3.0,151.57
+5354,0,21.0,Mobile,3,9.0,DC,Female,3.0,2,Grocery,4,Married,8,0,15.0,1.0,2.0,3.0,284.72
+5043,0,7.0,Mobile,1,16.0,CC,Male,3.0,4,Mobile,1,Married,2,0,14.0,1.0,5.0,11.0,152.81
+2141,1,0.0,Mobile,1,10.0,COD,Male,2.0,3,Mobile,1,Married,2,1,15.0,4.0,5.0,6.0,136.91
+5512,0,18.0,Mobile,1,8.0,DC,Male,4.0,2,Laptop,5,Married,4,0,16.0,2.0,3.0,3.0,175.33
+2951,0,12.0,Computer,3,9.0,DC,Male,3.0,5,Laptop,2,Divorced,5,0,19.0,7.0,8.0,6.0,177.49
+3081,0,14.0,Mobile,1,9.0,CC,Female,4.0,5,Laptop,3,Divorced,8,0,23.0,2.0,2.0,1.0,159.48
+756,0,5.0,Computer,1,8.0,DC,Female,2.0,3,Laptop,3,Single,5,1,14.0,1.0,1.0,7.0,149.98
+1132,1,0.0,Mobile,3,22.0,E wallet,Male,3.0,3,Fashion,3,Married,3,0,13.0,1.0,1.0,0.0,181.61
+5073,1,9.0,Mobile,3,9.0,E wallet,Female,4.0,6,Others,4,Single,4,1,16.0,2.0,2.0,12.0,313.24
+4212,0,18.0,Mobile,3,7.0,E wallet,Female,4.0,4,Laptop,5,Married,7,1,22.0,2.0,2.0,4.0,179.54
+3614,0,9.0,Mobile,1,13.0,DC,Male,4.0,4,Mobile,3,Divorced,2,1,15.0,2.0,3.0,3.0,160.06
+5550,1,1.0,Mobile,1,24.0,COD,Male,3.0,5,Mobile,1,Married,7,0,13.0,2.0,2.0,4.0,148.67
+707,0,10.0,Mobile,1,31.0,CC,Female,2.0,4,Laptop,2,Married,8,0,13.0,0.0,1.0,3.0,157.31
+2792,0,9.0,Computer,3,21.0,E wallet,Male,2.0,5,Laptop,1,Married,2,0,24.0,5.0,11.0,11.0,154.06
+1005,0,8.0,Mobile,1,34.0,DC,Male,2.0,1,Laptop,3,Married,2,0,17.0,5.0,6.0,8.0,134.07
+198,1,0.0,Mobile,1,8.0,CC,Male,2.0,5,Mobile,2,Divorced,6,1,13.0,2.0,2.0,2.0,134.64
+202,1,2.0,Mobile,3,9.0,CC,Female,2.0,3,Laptop,3,Divorced,5,1,18.0,1.0,1.0,0.0,152.38
+1959,1,0.0,Computer,1,16.0,CC,Female,2.0,4,Mobile,3,Married,2,1,14.0,0.0,1.0,7.0,123.66
+4447,0,12.0,Mobile,1,30.0,DC,Male,3.0,4,Laptop,1,Married,11,0,15.0,1.0,2.0,3.0,182.45
+2192,0,7.0,Computer,1,7.0,CC,Male,3.0,4,Laptop,5,Single,1,0,20.0,0.0,4.0,9.0,153.43
+5075,1,1.0,Computer,1,17.0,DC,Female,3.0,5,Mobile,3,Single,3,0,21.0,2.0,3.0,3.0,151.25
+4609,0,13.0,Computer,1,15.0,DC,Female,3.0,4,Mobile,3,Married,3,0,12.0,2.0,2.0,8.0,162.55
+1543,0,11.0,Mobile,1,8.0,DC,Male,2.0,3,Laptop,3,Married,10,0,14.0,1.0,1.0,0.0,165.53
+4710,0,1.0,Mobile,1,16.0,CC,Male,3.0,4,Mobile,5,Married,3,0,15.0,2.0,2.0,3.0,150.0
+3079,0,11.0,Mobile,1,17.0,DC,Male,3.0,4,Laptop,4,Single,4,1,13.0,1.0,2.0,2.0,166.97
+3329,0,23.0,Mobile,1,7.0,COD,Female,3.0,4,Mobile,5,Divorced,4,0,17.0,2.0,2.0,3.0,160.8
+3740,0,16.0,Computer,1,16.0,CC,Female,4.0,4,Mobile,1,Single,3,0,14.0,5.0,6.0,9.0,161.73
+762,0,15.0,Computer,1,32.0,CC,Female,2.0,3,Fashion,5,Divorced,4,1,17.0,0.0,2.0,0.0,231.91000000000003
+910,0,10.0,Mobile,2,14.0,CC,Female,3.0,1,Mobile,4,Single,10,0,18.0,0.0,1.0,2.0,121.09
+4933,0,10.0,Mobile,1,19.0,CC,Female,3.0,5,Fashion,1,Single,2,0,12.0,6.0,8.0,3.0,213.58
+5404,0,4.0,Computer,1,9.0,COD,Female,4.0,5,Mobile,5,Single,2,0,17.0,1.0,2.0,8.0,174.68
+4282,1,20.0,Mobile,1,21.0,DC,Female,4.0,4,Mobile,4,Married,11,1,19.0,4.0,5.0,4.0,174.63
+1672,1,2.0,Mobile,3,9.0,CC,Female,2.0,3,Laptop,3,Married,5,1,18.0,1.0,1.0,0.0,152.38
+1982,0,5.0,Computer,1,6.0,DC,Male,3.0,3,Mobile,1,Married,1,0,12.0,1.0,1.0,2.0,123.13999999999999
+3848,0,11.0,Mobile,1,26.0,DC,Male,3.0,4,Laptop,3,Married,5,0,18.0,1.0,2.0,3.0,182.68
+693,0,4.0,Computer,3,26.0,DC,Male,3.0,1,Mobile,2,Divorced,1,0,12.0,1.0,2.0,2.0,127.91
+3237,1,6.0,Computer,1,26.0,CC,Male,3.0,3,Mobile,3,Married,8,1,13.0,3.0,3.0,3.0,152.59
+5003,0,1.0,Mobile,1,10.0,CC,Male,3.0,2,Mobile,1,Married,3,0,23.0,2.0,2.0,8.0,169.2
+621,0,14.0,Computer,1,13.0,DC,Female,2.0,5,Others,3,Married,2,0,16.0,1.0,5.0,10.0,299.73
+666,1,0.0,Mobile,3,10.0,COD,Male,2.0,3,Fashion,5,Single,1,1,22.0,3.0,4.0,7.0,195.82
+1662,1,15.0,Mobile,1,14.0,CC,Male,2.0,4,Laptop,4,Married,3,0,15.0,7.0,7.0,7.0,149.41
+5599,0,10.0,Mobile,3,10.0,CC,Female,4.0,5,Fashion,1,Married,2,0,20.0,1.0,4.0,5.0,201.44
+2984,0,11.0,Computer,1,16.0,CC,Male,3.0,4,Mobile,2,Divorced,3,1,13.0,1.0,2.0,3.0,148.26
+1123,0,0.0,Mobile,1,14.0,CC,Female,3.0,3,Mobile,1,Single,2,0,11.0,1.0,1.0,4.0,134.45
+5102,0,10.0,Mobile,1,17.0,COD,Female,4.0,4,Fashion,3,Married,5,0,13.0,2.0,2.0,8.0,195.94
+2715,0,20.0,Computer,1,20.0,COD,Male,3.0,3,Laptop,4,Married,9,0,18.0,0.0,1.0,7.0,154.67
+2045,1,20.0,Mobile,1,16.0,COD,Male,2.0,3,Mobile,3,Single,5,0,24.0,0.0,1.0,0.0,124.78999999999999
+4380,0,10.0,Mobile,1,12.0,DC,Male,4.0,4,Laptop,4,Single,10,0,17.0,3.0,4.0,8.0,184.14
+1045,0,0.0,Computer,1,16.0,CC,Male,2.0,3,Mobile,1,Single,3,0,13.0,0.0,1.0,2.0,125.80000000000001
+4913,0,13.0,Computer,1,29.0,CC,Female,3.0,4,Fashion,5,Single,3,1,14.0,2.0,2.0,9.0,233.8
+3131,0,16.0,Computer,1,12.0,UPI,Male,4.0,4,Mobile,3,Divorced,6,0,18.0,3.0,3.0,1.0,145.93
+5015,0,11.0,Mobile,1,8.0,DC,Female,3.0,5,Laptop,1,Married,3,0,14.0,1.0,4.0,12.0,189.74
+5574,0,21.0,Mobile,1,32.0,CC,Male,3.0,4,Fashion,3,Single,4,0,24.0,10.0,13.0,3.0,211.33
+4070,0,9.0,Mobile,3,25.0,CC,Male,4.0,4,Laptop,5,Married,2,0,17.0,1.0,2.0,5.0,25.0
+3086,0,17.0,Mobile,1,15.0,UPI,Female,4.0,4,Laptop,3,Married,6,1,15.0,1.0,2.0,3.0,170.22
+4014,0,3.0,Mobile,1,36.0,DC,Male,4.0,6,Laptop,3,Married,10,0,18.0,2.0,2.0,7.0,188.84
+4082,0,9.0,Mobile,3,14.0,DC,Female,3.0,4,Laptop,1,Married,3,1,12.0,2.0,2.0,10.0,177.04
+4588,0,21.0,Mobile,1,9.0,CC,Female,4.0,4,Laptop,1,Married,7,0,14.0,1.0,2.0,5.0,175.7
+438,0,0.0,Mobile,3,32.0,CC,Female,2.0,3,Laptop,2,Single,2,0,23.0,0.0,1.0,4.0,161.8
+4273,0,1.0,Mobile,1,25.0,DC,Male,3.0,4,Mobile,3,Married,2,0,13.0,1.0,2.0,3.0,152.74
+3982,0,13.0,Computer,3,27.0,DC,Male,3.0,4,Laptop,1,Married,4,0,19.0,2.0,3.0,3.0,166.27
+2770,0,6.0,Mobile,1,21.0,CC,Female,3.0,3,Laptop,1,Married,1,1,13.0,6.0,8.0,1.0,148.78
+4822,1,1.0,Mobile,3,9.0,CC,Female,3.0,5,Mobile,3,Single,3,0,14.0,2.0,2.0,3.0,145.44
+3487,1,1.0,Mobile,1,28.0,CC,Male,3.0,4,Mobile,3,Married,3,0,21.0,2.0,2.0,1.0,148.77
+4089,0,17.0,Mobile,1,18.0,DC,Male,2.0,4,Fashion,3,Married,3,0,18.0,2.0,2.0,10.0,200.1
+4965,0,19.0,Computer,3,16.0,DC,Female,4.0,5,Laptop,3,Married,3,0,14.0,5.0,5.0,13.0,180.93
+4432,0,2.0,Mobile,1,16.0,CC,Male,4.0,4,Mobile,1,Married,3,0,24.0,2.0,2.0,5.0,145.7
+1088,1,10.0,Mobile,3,13.0,DC,Male,2.0,3,Mobile,1,Married,2,1,21.0,1.0,1.0,2.0,122.75
+5136,0,30.0,Mobile,1,30.0,DC,Male,4.0,4,Grocery,4,Married,6,1,13.0,14.0,2.0,10.0,259.02
+2201,0,0.0,Mobile,1,5.0,DC,Male,3.0,4,Mobile,3,Single,2,0,12.0,0.0,1.0,2.0,130.33
+72,0,15.0,Computer,1,27.0,CC,Female,2.0,3,Laptop,3,Married,3,0,16.0,0.0,1.0,2.0,152.65
+5013,0,1.0,Mobile,1,16.0,DC,Male,3.0,4,Mobile,5,Single,3,0,26.0,1.0,2.0,1.0,150.52
+1976,0,17.0,Mobile,1,14.0,DC,Male,3.0,1,Mobile,1,Married,3,1,24.0,1.0,1.0,2.0,128.18
+442,0,7.0,Mobile,3,8.0,UPI,Male,2.0,3,Laptop,2,Single,2,0,22.0,0.0,1.0,4.0,162.74
+5375,0,9.0,Computer,1,9.0,CC,Male,4.0,5,Mobile,1,Single,2,1,15.0,2.0,2.0,5.0,174.3
+2420,0,5.0,Mobile,1,16.0,CC,Male,3.0,3,Fashion,1,Single,3,0,25.0,0.0,1.0,3.0,212.44
+2611,0,10.0,Mobile,1,15.0,DC,Male,3.0,3,Mobile,5,Married,2,0,20.0,0.0,1.0,4.0,122.88999999999999
+1692,0,20.0,Computer,3,10.0,CC,Male,3.0,3,Laptop,3,Single,4,0,19.0,0.0,1.0,0.0,129.76
+4676,0,1.0,Mobile,1,11.0,CC,Male,3.0,2,Mobile,5,Married,4,0,17.0,1.0,2.0,3.0,153.19
+3923,0,4.0,Mobile,1,23.0,DC,Male,3.0,4,Mobile,1,Married,3,0,13.0,1.0,2.0,9.0,153.62
+4307,0,15.0,Computer,1,17.0,DC,Male,4.0,5,Grocery,5,Married,6,0,16.0,3.0,8.0,8.0,296.81
+5427,0,8.0,Computer,3,17.0,DC,Male,3.0,4,Laptop,3,Married,3,1,15.0,2.0,2.0,8.0,165.01
+4149,0,3.0,Mobile,1,20.0,UPI,Male,3.0,5,Laptop,4,Married,6,1,14.0,2.0,2.0,4.0,165.25
+723,0,8.0,Computer,1,16.0,UPI,Male,2.0,4,Mobile,2,Divorced,2,0,13.0,2.0,2.0,2.0,123.75999999999999
+5189,0,14.0,Computer,1,16.0,UPI,Male,3.0,4,Laptop,3,Married,5,0,12.0,1.0,2.0,8.0,164.75
+1471,1,20.0,Mobile,1,29.0,CC,Female,3.0,3,Fashion,1,Married,2,0,12.0,7.0,15.0,6.0,203.12
+4167,0,4.0,Mobile,1,31.0,DC,Male,4.0,4,Mobile,3,Married,3,0,23.0,2.0,2.0,1.0,151.93
+4116,0,6.0,Mobile,1,36.0,DC,Female,3.0,5,Mobile,4,Single,3,0,14.0,4.0,5.0,2.0,153.37
+4339,0,12.0,Mobile,1,16.0,DC,Female,4.0,4,Mobile,1,Single,3,0,13.0,2.0,3.0,2.0,147.88
+1384,0,6.0,Computer,3,6.0,DC,Female,2.0,1,Laptop,5,Married,3,0,19.0,0.0,1.0,3.0,153.76
+19,1,19.0,Mobile,1,20.0,DC,Female,3.0,3,Mobile,4,Divorced,10,1,18.0,1.0,4.0,3.0,149.63
+600,1,0.0,Mobile,1,20.0,UPI,Male,2.0,4,Mobile,4,Married,2,1,24.0,1.0,1.0,2.0,137.43
+5494,0,1.0,Computer,1,22.0,DC,Female,4.0,5,Mobile,5,Married,2,0,20.0,1.0,8.0,4.0,172.74
+8,1,13.0,Mobile,3,9.0,E wallet,Male,3.0,4,Mobile,3,Divorced,2,1,14.0,0.0,1.0,2.0,126.83000000000001
+2024,0,4.0,Computer,3,26.0,E wallet,Female,2.0,3,Laptop,3,Married,2,0,13.0,1.0,1.0,0.0,169.32
+3050,0,31.0,Mobile,1,7.0,CC,Male,3.0,4,Laptop,3,Divorced,4,0,12.0,2.0,2.0,3.0,192.55
+1983,0,0.0,Mobile,3,10.0,E wallet,Male,2.0,4,Laptop,5,Married,2,0,12.0,1.0,1.0,3.0,142.56
+349,0,0.0,Mobile,1,29.0,CC,Male,3.0,2,Mobile,2,Divorced,2,1,11.0,0.0,1.0,4.0,127.25
+1979,0,0.0,Mobile,3,9.0,UPI,Male,3.0,3,Laptop,5,Married,2,1,18.0,0.0,1.0,3.0,141.94
+826,0,14.0,Computer,3,16.0,CC,Male,2.0,5,Laptop,4,Single,2,0,13.0,3.0,11.0,9.0,161.51
+4984,0,16.0,Mobile,1,36.0,CC,Male,3.0,6,Laptop,1,Single,6,0,20.0,2.0,2.0,1.0,167.72
+3668,0,14.0,Mobile,1,9.0,CC,Female,3.0,2,Laptop,3,Married,7,0,21.0,6.0,12.0,9.0,188.77
+1248,0,10.0,Computer,1,14.0,CC,Female,2.0,4,Laptop,4,Married,2,1,16.0,1.0,1.0,7.0,121.33000000000001
+4528,1,4.0,Mobile,3,29.0,E wallet,Male,4.0,5,Laptop,3,Married,4,1,13.0,2.0,2.0,1.0,188.8
+3771,0,9.0,Mobile,1,23.0,DC,Female,4.0,5,Fashion,4,Single,3,0,20.0,2.0,4.0,3.0,211.06
+4630,0,1.0,Computer,3,31.0,CC,Male,3.0,4,Mobile,1,Married,2,0,14.0,2.0,3.0,2.0,149.0
+4519,0,10.0,Computer,3,10.0,CC,Male,3.0,5,Fashion,1,Married,6,0,12.0,1.0,2.0,3.0,221.99
+2756,0,10.0,Mobile,2,8.0,UPI,Female,2.0,3,Mobile,4,Married,5,0,14.0,0.0,1.0,2.0,121.87
+271,0,16.0,Mobile,1,14.0,UPI,Female,3.0,3,Laptop,3,Married,5,1,14.0,0.0,1.0,2.0,145.22
+2329,0,1.0,Mobile,3,32.0,DC,Male,2.0,4,Laptop,5,Married,2,0,11.0,1.0,1.0,4.0,147.24
+1460,0,10.0,Mobile,3,9.0,DC,Male,2.0,3,Fashion,1,Single,3,0,12.0,0.0,1.0,3.0,174.28
+1824,1,0.0,Computer,1,13.0,DC,Female,3.0,3,Mobile,3,Married,2,1,16.0,0.0,1.0,2.0,128.86
+2068,0,19.0,Mobile,1,13.0,CC,Male,3.0,3,Fashion,3,Married,7,0,13.0,1.0,1.0,7.0,208.45
+3415,1,1.0,Mobile,1,21.0,UPI,Male,3.0,5,Mobile,4,Married,3,1,25.0,2.0,2.0,3.0,162.43
+2618,1,0.0,Mobile,1,16.0,CC,Female,3.0,3,Mobile,5,Married,2,1,17.0,0.0,1.0,0.0,123.97999999999999
+4152,0,13.0,Mobile,3,31.0,E wallet,Female,3.0,5,Grocery,1,Married,2,0,12.0,2.0,2.0,7.0,245.31
+1643,0,9.0,Computer,1,24.0,DC,Male,2.0,1,Mobile,1,Married,5,0,18.0,1.0,1.0,0.0,136.88
+969,0,13.0,Mobile,3,15.0,CC,Male,2.0,3,Laptop,5,Married,1,0,12.0,2.0,7.0,1.0,154.73
+951,0,27.0,Computer,1,17.0,CC,Female,2.0,3,Grocery,1,Married,4,0,20.0,1.0,2.0,12.0,260.32
+1192,0,0.0,Computer,1,16.0,DC,Female,2.0,3,Mobile,1,Single,1,1,14.0,1.0,1.0,2.0,123.78999999999999
+5420,0,6.0,Computer,1,12.0,COD,Male,4.0,4,Mobile,4,Single,4,0,15.0,2.0,2.0,8.0,152.18
+4637,0,24.0,Computer,2,10.0,CC,Male,4.0,4,Others,4,Married,3,0,16.0,2.0,11.0,8.0,307.0
+5452,0,13.0,Computer,3,27.0,DC,Male,3.0,4,Laptop,1,Married,4,0,19.0,2.0,3.0,3.0,166.27
+5095,0,6.0,Mobile,3,15.0,CC,Male,3.0,2,Laptop,1,Married,3,0,16.0,1.0,2.0,9.0,187.09
+4146,0,9.0,Computer,1,25.0,DC,Male,4.0,4,Laptop,3,Married,3,1,15.0,2.0,2.0,3.0,181.89
+492,0,17.0,Mobile,1,10.0,CC,Male,2.0,3,Laptop,4,Single,10,0,12.0,1.0,2.0,3.0,159.33
+1727,1,0.0,Computer,1,9.0,COD,Male,3.0,3,Mobile,5,Single,1,0,22.0,0.0,1.0,4.0,131.02
+2234,0,10.0,Mobile,1,20.0,DC,Male,2.0,3,Mobile,5,Married,2,1,14.0,5.0,6.0,8.0,122.35
+3575,0,1.0,Mobile,3,17.0,DC,Male,3.0,4,Laptop,2,Single,2,0,15.0,1.0,2.0,2.0,174.5
+5476,0,17.0,Computer,3,9.0,DC,Male,4.0,4,Laptop,1,Married,3,0,21.0,8.0,8.0,8.0,181.75
+511,1,10.0,Computer,1,31.0,DC,Female,3.0,3,Mobile,4,Married,2,1,19.0,0.0,7.0,8.0,120.22
+2927,0,26.0,Computer,3,9.0,DC,Male,4.0,5,Others,3,Single,3,1,16.0,8.0,16.0,13.0,315.68
+4402,0,15.0,Mobile,1,26.0,DC,Male,3.0,4,Laptop,5,Married,4,0,17.0,1.0,2.0,1.0,155.72
+2388,0,26.0,Mobile,1,8.0,CC,Male,2.0,1,Grocery,4,Single,5,0,12.0,1.0,8.0,8.0,265.98
+2709,0,1.0,Computer,3,7.0,DC,Male,2.0,4,Laptop,1,Married,2,1,12.0,1.0,1.0,7.0,168.34
+3223,0,14.0,Computer,3,12.0,DC,Male,3.0,5,Fashion,5,Divorced,7,1,22.0,1.0,2.0,3.0,229.75
+866,0,5.0,Mobile,3,8.0,E wallet,Male,2.0,3,Laptop,4,Divorced,1,1,13.0,0.0,1.0,2.0,140.78
+1715,1,0.0,Mobile,3,18.0,DC,Female,3.0,1,Mobile,4,Single,2,0,15.0,0.0,1.0,0.0,127.16
+2138,0,10.0,Mobile,1,21.0,DC,Male,2.0,3,Mobile,3,Married,2,0,16.0,0.0,2.0,2.0,122.07
+4189,0,20.0,Mobile,3,9.0,E wallet,Female,3.0,4,Others,5,Single,5,0,16.0,3.0,3.0,2.0,314.47
+4912,1,1.0,Mobile,1,23.0,DC,Female,3.0,2,Mobile,5,Single,3,0,17.0,4.0,16.0,15.0,152.43
+3112,1,1.0,Mobile,2,9.0,COD,Male,3.0,5,Mobile,2,Single,3,0,13.0,2.0,2.0,1.0,150.64
+2304,0,13.0,Mobile,1,8.0,DC,Male,3.0,3,Laptop,1,Single,2,0,13.0,3.0,8.0,8.0,146.61
+1664,0,5.0,Mobile,3,14.0,COD,Female,3.0,4,Laptop,4,Married,2,1,11.0,11.0,11.0,9.0,152.28
+3310,0,9.0,Mobile,1,34.0,CC,Female,3.0,5,Mobile,5,Single,3,0,12.0,2.0,2.0,2.0,150.59
+5249,0,11.0,Mobile,1,20.0,CC,Male,3.0,4,Laptop,1,Married,3,0,18.0,3.0,4.0,8.0,167.85
+2003,0,17.0,Mobile,1,16.0,DC,Male,3.0,3,Mobile,5,Married,2,1,13.0,5.0,7.0,1.0,125.59
+199,0,3.0,Mobile,1,34.0,CC,Female,3.0,3,Laptop,2,Divorced,2,0,13.0,0.0,1.0,9.0,157.75
+3510,0,9.0,Computer,3,18.0,E wallet,Male,3.0,4,Laptop,2,Married,3,0,12.0,1.0,2.0,3.0,174.68
+1652,0,11.0,Mobile,1,31.0,DC,Female,2.0,4,Fashion,4,Married,4,0,17.0,0.0,1.0,3.0,220.61
+5346,1,1.0,Computer,3,19.0,UPI,Male,3.0,4,Laptop,1,Single,5,1,25.0,6.0,7.0,8.0,170.81
+1010,0,19.0,Mobile,3,6.0,DC,Male,2.0,1,Grocery,5,Single,2,0,15.0,1.0,1.0,12.0,275.67
+4205,1,5.0,Mobile,1,19.0,COD,Female,3.0,4,Others,3,Married,3,0,16.0,2.0,16.0,9.0,320.45
+381,0,10.0,Mobile,1,9.0,UPI,Male,2.0,3,Fashion,3,Divorced,2,0,15.0,6.0,7.0,8.0,194.34
+1336,1,13.0,Mobile,3,34.0,E wallet,Male,2.0,4,Fashion,5,Married,5,1,13.0,0.0,2.0,0.0,208.54000000000002
+412,0,0.0,Computer,1,16.0,DC,Male,2.0,3,Fashion,5,Married,2,0,21.0,1.0,1.0,7.0,187.93
+5088,1,8.0,Mobile,1,22.0,CC,Female,4.0,4,Fashion,1,Married,3,0,12.0,1.0,2.0,6.0,204.78
+3528,1,6.0,Computer,3,19.0,DC,Male,3.0,4,Grocery,5,Single,2,1,13.0,1.0,14.0,15.0,262.58
+1400,0,6.0,Computer,1,29.0,DC,Female,3.0,3,Fashion,1,Single,2,1,12.0,3.0,2.0,12.0,234.57999999999998
+3887,0,1.0,Mobile,3,16.0,DC,Male,3.0,4,Mobile,5,Single,3,0,12.0,1.0,2.0,3.0,152.28
+2911,0,7.0,Mobile,1,11.0,CC,Female,3.0,5,Mobile,4,Divorced,8,0,22.0,1.0,2.0,2.0,151.22
+5454,0,15.0,Mobile,1,12.0,DC,Male,3.0,2,Laptop,4,Single,5,0,13.0,1.0,2.0,3.0,193.7
+4327,0,4.0,Mobile,3,12.0,DC,Female,3.0,4,Fashion,1,Married,4,0,13.0,2.0,8.0,3.0,219.19
+3569,0,31.0,Mobile,3,14.0,E wallet,Male,3.0,2,Laptop,2,Married,2,1,19.0,1.0,2.0,10.0,177.2
+944,0,10.0,Mobile,1,6.0,DC,Male,3.0,4,Mobile,3,Married,2,0,14.0,0.0,1.0,0.0,115.63
+5142,0,12.0,Computer,1,14.0,DC,Male,3.0,2,Mobile,3,Married,3,0,12.0,1.0,2.0,4.0,151.1
+2087,0,23.0,Mobile,1,16.0,DC,Male,3.0,3,Mobile,1,Married,5,0,18.0,1.0,1.0,0.0,123.80000000000001
+320,0,28.0,Mobile,3,24.0,DC,Female,2.0,3,Grocery,4,Single,4,0,23.0,1.0,7.0,7.0,268.35
+5609,0,6.0,Mobile,1,9.0,COD,Male,4.0,4,Mobile,5,Single,3,0,15.0,1.0,2.0,3.0,149.39
+613,0,12.0,Mobile,1,6.0,DC,Female,3.0,4,Grocery,2,Divorced,2,0,16.0,0.0,11.0,3.0,227.42000000000002
+794,0,30.0,Mobile,1,24.0,CC,Male,3.0,3,Fashion,2,Single,7,0,12.0,1.0,5.0,4.0,205.12
+999,0,12.0,Mobile,3,12.0,CC,Male,2.0,1,Fashion,3,Married,3,0,11.0,4.0,7.0,6.0,182.37
+3342,0,11.0,Computer,3,26.0,CC,Male,3.0,4,Fashion,4,Single,3,1,14.0,1.0,2.0,10.0,201.42
+1712,0,23.0,Mobile,1,16.0,COD,Male,3.0,4,Fashion,1,Single,7,0,15.0,1.0,1.0,3.0,204.96
+2218,0,9.0,Mobile,1,12.0,DC,Male,3.0,5,Mobile,3,Married,2,0,14.0,1.0,1.0,7.0,127.41
+895,0,20.0,Mobile,1,6.0,COD,Male,3.0,3,Mobile,2,Divorced,8,0,12.0,1.0,1.0,2.0,134.2
+3444,0,7.0,Computer,3,15.0,DC,Female,3.0,5,Mobile,2,Single,2,0,20.0,3.0,3.0,3.0,148.42
+516,0,5.0,Computer,3,11.0,DC,Male,2.0,3,Laptop,4,Divorced,2,0,14.0,2.0,5.0,3.0,165.24
+1583,0,5.0,Mobile,3,10.0,DC,Female,2.0,3,Mobile,4,Married,3,0,11.0,1.0,1.0,2.0,139.31
+4162,1,1.0,Mobile,1,9.0,UPI,Male,4.0,5,Mobile,3,Single,8,1,16.0,1.0,2.0,1.0,145.9
+1197,0,19.0,Mobile,1,8.0,DC,Male,2.0,3,Fashion,1,Married,4,0,14.0,1.0,4.0,7.0,185.78
+942,0,20.0,Mobile,3,20.0,CC,Female,3.0,3,Laptop,3,Divorced,4,1,17.0,1.0,1.0,2.0,145.91
+2217,0,6.0,Computer,3,31.0,CC,Female,2.0,3,Laptop,3,Married,2,0,12.0,0.0,1.0,1.0,145.39
+5464,0,14.0,Mobile,1,19.0,DC,Female,3.0,4,Laptop,5,Married,4,0,13.0,2.0,8.0,8.0,169.48
+2148,0,7.0,Computer,1,9.0,DC,Male,3.0,4,Mobile,1,Married,4,0,17.0,0.0,1.0,0.0,129.79
+2725,0,8.0,Mobile,3,24.0,CC,Male,3.0,3,Laptop,5,Married,1,0,16.0,1.0,1.0,4.0,155.61
+3539,1,7.0,Mobile,3,16.0,E wallet,Female,3.0,6,Laptop,3,Single,10,0,14.0,2.0,2.0,4.0,178.46
+1777,0,7.0,Mobile,1,8.0,DC,Male,3.0,4,Mobile,3,Married,4,0,12.0,3.0,5.0,7.0,127.68
+855,1,0.0,Computer,3,8.0,DC,Female,3.0,4,Mobile,2,Single,8,0,14.0,0.0,1.0,0.0,127.85
+3426,0,22.0,Mobile,1,11.0,DC,Male,4.0,5,Fashion,3,Single,9,0,15.0,2.0,2.0,9.0,234.99
+726,0,29.0,Mobile,1,10.0,COD,Female,3.0,3,Others,5,Married,5,0,16.0,0.0,4.0,2.0,299.43
+483,1,18.0,Mobile,3,8.0,CC,Male,2.0,3,Laptop,2,Single,5,0,16.0,0.0,7.0,3.0,151.6
+3529,0,16.0,Mobile,3,11.0,E wallet,Male,3.0,4,Laptop,5,Single,9,0,14.0,2.0,2.0,6.0,176.55
+2645,0,7.0,Mobile,3,14.0,COD,Male,3.0,1,Laptop,3,Married,2,0,21.0,2.0,4.0,8.0,167.99
+1761,0,10.0,Computer,1,8.0,DC,Male,2.0,3,Mobile,1,Married,2,1,23.0,1.0,1.0,0.0,117.02000000000001
+2856,0,15.0,Mobile,1,21.0,DC,Male,3.0,4,Mobile,3,Married,6,0,13.0,2.0,2.0,9.0,149.51
+1648,0,4.0,Mobile,3,13.0,COD,Male,3.0,1,Laptop,1,Married,5,0,11.0,3.0,7.0,7.0,169.29
+179,0,12.0,Mobile,1,6.0,CC,Male,2.0,2,Fashion,2,Married,1,0,17.0,3.0,3.0,7.0,196.13
+4286,1,21.0,Mobile,1,30.0,CC,Female,4.0,4,Fashion,1,Married,3,0,13.0,8.0,16.0,3.0,228.12
+185,0,4.0,Mobile,2,8.0,UPI,Male,3.0,4,Laptop,5,Divorced,4,0,12.0,0.0,1.0,0.0,164.1
+505,0,0.0,Mobile,1,6.0,DC,Male,2.0,4,Laptop,2,Divorced,7,0,22.0,2.0,2.0,2.0,147.75
+1235,0,4.0,Mobile,1,10.0,CC,Female,3.0,1,Mobile,3,Married,9,0,12.0,2.0,2.0,2.0,139.78
+818,0,19.0,Mobile,2,6.0,DC,Female,2.0,3,Mobile,5,Single,7,0,12.0,3.0,5.0,7.0,134.23
+1212,0,1.0,Mobile,3,9.0,CC,Female,3.0,3,Mobile,4,Married,2,0,19.0,1.0,1.0,0.0,128.56
+2054,1,0.0,Computer,1,16.0,CC,Male,2.0,4,Mobile,5,Single,1,1,22.0,0.0,1.0,2.0,123.21000000000001
+5248,0,16.0,Mobile,1,9.0,CC,Male,4.0,5,Mobile,4,Married,6,0,15.0,1.0,2.0,1.0,173.41
+5063,0,3.0,Mobile,1,14.0,DC,Male,3.0,4,Laptop,1,Married,3,1,12.0,2.0,2.0,1.0,191.23
+1881,0,30.0,Mobile,3,22.0,E wallet,Male,2.0,3,Laptop,5,Single,9,0,14.0,2.0,2.0,2.0,154.05
+5118,0,8.0,Mobile,1,16.0,DC,Male,3.0,4,Fashion,1,Married,2,0,12.0,1.0,2.0,3.0,210.0
+44,0,5.0,Mobile,1,12.0,DC,Male,3.0,3,Mobile,3,Single,4,0,20.0,0.0,1.0,4.0,130.38
+5486,1,1.0,Mobile,3,9.0,E wallet,Male,3.0,5,Laptop,4,Single,9,1,13.0,2.0,3.0,3.0,224.07
+4292,1,1.0,Mobile,3,27.0,DC,Female,4.0,6,Laptop,3,Married,5,1,12.0,1.0,3.0,3.0,170.59
+1567,0,10.0,Computer,1,17.0,UPI,Male,2.0,3,Fashion,1,Married,2,1,14.0,1.0,1.0,3.0,221.85000000000002
+5466,0,5.0,Computer,3,14.0,E wallet,Female,4.0,4,Fashion,5,Married,4,0,15.0,3.0,3.0,3.0,221.37
+201,0,12.0,Computer,1,5.0,CC,Male,2.0,4,Others,2,Divorced,2,0,16.0,9.0,13.0,3.0,292.72
+852,0,10.0,Computer,1,32.0,COD,Female,3.0,4,Mobile,3,Married,2,0,20.0,1.0,1.0,0.0,120.28999999999999
+4055,1,1.0,Computer,3,31.0,COD,Male,3.0,2,Mobile,5,Single,3,0,18.0,2.0,2.0,1.0,135.91
+4457,0,9.0,Mobile,3,23.0,E wallet,Male,4.0,4,Fashion,4,Married,2,0,16.0,4.0,7.0,10.0,205.2
+561,0,14.0,Mobile,1,12.0,CC,Male,2.0,3,Mobile,5,Single,3,1,13.0,1.0,2.0,17.0,147.21
+3775,1,1.0,Computer,1,10.0,DC,Female,3.0,4,Mobile,3,Single,3,0,13.0,7.0,8.0,8.0,165.84
+285,0,3.0,Mobile,1,8.0,DC,Female,2.0,5,Laptop,2,Single,3,0,20.0,0.0,1.0,2.0,160.91
+190,0,16.0,Computer,1,16.0,DC,Female,2.0,3,Mobile,2,Single,1,0,19.0,0.0,1.0,7.0,124.55000000000001
+4025,0,13.0,Mobile,1,26.0,UPI,Male,3.0,4,Laptop,1,Married,10,0,15.0,2.0,3.0,3.0,164.02
+5619,0,3.0,Mobile,1,20.0,UPI,Male,3.0,5,Laptop,4,Married,6,1,14.0,1.0,2.0,4.0,165.25
+2047,0,3.0,Mobile,3,14.0,UPI,Male,3.0,3,Fashion,3,Married,6,0,11.0,2.0,7.0,7.0,172.64
+3980,1,1.0,Computer,1,16.0,DC,Male,4.0,4,Laptop,5,Married,6,0,18.0,1.0,2.0,8.0,178.46
+4016,1,1.0,Mobile,3,9.0,E wallet,Male,3.0,5,Laptop,4,Single,9,1,13.0,3.0,3.0,3.0,224.07
+1676,0,0.0,Computer,3,6.0,E wallet,Male,3.0,3,Laptop,4,Married,1,1,13.0,0.0,1.0,4.0,163.49
+4056,0,13.0,Computer,3,28.0,DC,Female,3.0,6,Laptop,3,Married,8,0,20.0,1.0,2.0,3.0,182.36
+3812,0,3.0,Mobile,1,10.0,CC,Male,3.0,4,Mobile,5,Single,3,1,19.0,1.0,2.0,6.0,172.23
+2252,0,17.0,Mobile,3,11.0,E wallet,Male,2.0,3,Others,4,Married,8,0,11.0,1.0,3.0,10.0,282.13
+5241,0,9.0,Mobile,1,23.0,DC,Female,4.0,5,Fashion,4,Single,3,0,20.0,4.0,4.0,3.0,211.06
+5435,0,25.0,Mobile,1,10.0,COD,Female,3.0,4,Fashion,3,Married,4,0,12.0,3.0,2.0,3.0,256.16
+5604,1,20.0,Mobile,1,14.0,COD,Male,4.0,4,Mobile,3,Married,10,0,12.0,7.0,10.0,9.0,148.39
+4260,1,1.0,Mobile,2,13.0,UPI,Male,4.0,4,Mobile,5,Married,6,1,23.0,1.0,2.0,3.0,145.73
+5470,0,31.0,Computer,1,22.0,DC,Male,3.0,4,Grocery,3,Married,4,1,15.0,1.0,3.0,3.0,282.87
+4648,0,16.0,Mobile,1,9.0,DC,Female,3.0,4,Laptop,1,Married,3,0,14.0,1.0,3.0,3.0,165.89
+2036,0,13.0,Computer,1,15.0,CC,Male,2.0,3,Mobile,4,Married,9,1,14.0,0.0,1.0,0.0,136.17
+2240,0,4.0,Mobile,1,17.0,CC,Male,3.0,3,Laptop,5,Married,2,1,12.0,1.0,1.0,1.0,168.33
+3768,0,18.0,Mobile,1,35.0,DC,Male,3.0,4,Grocery,5,Divorced,5,0,14.0,1.0,15.0,18.0,288.28
+5064,0,22.0,Mobile,1,8.0,DC,Male,4.0,5,Others,1,Single,8,0,16.0,2.0,2.0,1.0,307.65
+674,0,15.0,Mobile,1,8.0,CC,Male,2.0,3,Grocery,5,Divorced,1,0,17.0,1.0,13.0,7.0,276.65
+3761,0,23.0,Mobile,1,10.0,CC,Female,3.0,5,Laptop,5,Divorced,6,0,26.0,2.0,2.0,3.0,172.89
+1578,0,23.0,Mobile,3,6.0,CC,Female,3.0,3,Others,1,Married,4,0,16.0,1.0,1.0,6.0,295.17
+3916,0,6.0,Computer,1,17.0,DC,Male,3.0,4,Mobile,3,Married,8,0,14.0,1.0,2.0,4.0,159.33
+4751,1,1.0,Mobile,3,23.0,E wallet,Female,4.0,4,Laptop,5,Single,7,0,16.0,2.0,2.0,3.0,178.24
+555,0,9.0,Mobile,1,13.0,UPI,Male,3.0,3,Mobile,2,Single,3,0,18.0,0.0,1.0,1.0,146.78
+3152,0,8.0,Mobile,3,28.0,DC,Male,4.0,3,Laptop,2,Single,3,0,13.0,6.0,6.0,8.0,178.37
+3440,0,18.0,Mobile,3,35.0,CC,Female,3.0,2,Grocery,2,Divorced,5,1,19.0,2.0,2.0,12.0,258.2
+232,1,10.0,Computer,3,6.0,COD,Female,2.0,4,Mobile,4,Single,2,1,11.0,1.0,1.0,2.0,121.74000000000001
+1628,0,28.0,Mobile,1,26.0,COD,Male,2.0,3,Laptop,1,Married,4,1,19.0,0.0,1.0,8.0,154.15
+676,1,13.0,Computer,3,6.0,UPI,Male,2.0,3,Laptop,3,Single,4,1,14.0,0.0,1.0,0.0,147.28
+476,0,13.0,Computer,1,22.0,CC,Male,2.0,4,Laptop,3,Single,7,0,14.0,1.0,1.0,0.0,150.94
+1919,0,7.0,Mobile,1,6.0,DC,Female,3.0,1,Mobile,1,Single,3,0,16.0,1.0,1.0,3.0,132.8
+441,1,10.0,Computer,3,33.0,DC,Female,3.0,1,Laptop,3,Single,5,1,12.0,1.0,1.0,3.0,163.97
+2840,1,1.0,Mobile,1,16.0,CC,Female,3.0,4,Mobile,5,Single,9,0,23.0,2.0,2.0,5.0,167.0
+5178,0,10.0,Mobile,1,11.0,DC,Male,3.0,5,Laptop,1,Single,3,0,17.0,1.0,2.0,9.0,183.1
+288,0,15.0,Computer,1,34.0,COD,Female,2.0,4,Laptop,2,Divorced,1,0,11.0,0.0,1.0,4.0,145.23
+2801,0,8.0,Computer,1,24.0,DC,Male,3.0,3,Laptop,3,Married,2,1,14.0,0.0,1.0,2.0,156.89
+225,0,15.0,Mobile,2,8.0,COD,Male,3.0,3,Mobile,3,Married,1,1,11.0,1.0,1.0,0.0,126.96000000000001
+4069,1,1.0,Computer,2,29.0,UPI,Female,3.0,5,Mobile,4,Married,3,0,13.0,2.0,2.0,1.0,153.63
+5038,0,16.0,Computer,2,9.0,CC,Male,4.0,2,Laptop,5,Married,9,0,17.0,2.0,2.0,4.0,187.72
+2436,0,6.0,Mobile,1,31.0,DC,Male,2.0,4,Laptop,4,Single,2,0,13.0,1.0,1.0,2.0,143.2
+2949,1,1.0,Computer,1,36.0,CC,Male,4.0,5,Mobile,4,Single,2,0,12.0,2.0,2.0,5.0,159.79
+434,0,11.0,Mobile,1,8.0,CC,Male,3.0,3,Mobile,3,Divorced,7,1,13.0,0.0,1.0,1.0,130.57
+3479,1,8.0,Mobile,2,7.0,CC,Male,4.0,5,Fashion,5,Divorced,11,0,15.0,3.0,4.0,3.0,229.82
+5368,0,8.0,Mobile,1,12.0,CC,Male,3.0,5,Laptop,1,Married,3,0,15.0,1.0,5.0,14.0,164.86
+5582,0,9.0,Mobile,1,18.0,CC,Male,3.0,4,Mobile,3,Married,9,1,12.0,3.0,3.0,3.0,151.6
+1332,0,10.0,Mobile,1,8.0,CC,Female,3.0,3,Mobile,3,Married,3,0,14.0,1.0,1.0,2.0,120.00999999999999
+1472,1,10.0,Mobile,3,28.0,E wallet,Male,2.0,3,Mobile,3,Single,2,1,19.0,1.0,1.0,0.0,116.75
+370,1,0.0,Mobile,3,8.0,E wallet,Male,3.0,3,Mobile,5,Married,1,0,11.0,0.0,1.0,2.0,130.41
+1498,0,18.0,Mobile,1,16.0,DC,Male,2.0,3,Laptop,4,Married,9,0,18.0,1.0,1.0,15.0,123.47999999999999
+997,0,2.0,Mobile,1,9.0,CC,Male,2.0,3,Mobile,5,Single,2,1,18.0,0.0,1.0,5.0,147.23
+5150,0,7.0,Computer,3,12.0,DC,Male,4.0,4,Laptop,1,Married,8,0,14.0,2.0,2.0,3.0,224.98
+2204,0,10.0,Mobile,1,21.0,DC,Female,3.0,5,Mobile,1,Married,1,1,18.0,1.0,1.0,3.0,121.68
+3625,0,6.0,Mobile,3,15.0,CC,Male,3.0,2,Laptop,2,Divorced,3,0,16.0,1.0,2.0,9.0,187.09
+5198,0,22.0,Mobile,3,14.0,E wallet,Male,4.0,4,Laptop,5,Married,6,0,12.0,1.0,3.0,3.0,179.86
+3357,1,5.0,Mobile,1,9.0,DC,Female,3.0,6,Mobile,2,Married,6,1,14.0,1.0,2.0,1.0,152.78
+52,1,0.0,Mobile,1,8.0,DC,Male,2.0,4,Mobile,2,Single,2,0,22.0,0.0,1.0,0.0,111.02000000000001
+4855,1,1.0,Mobile,3,7.0,DC,Male,3.0,5,Fashion,3,Married,7,0,12.0,6.0,12.0,3.0,231.08999999999997
+2277,1,0.0,Mobile,1,13.0,COD,Female,2.0,3,Mobile,3,Married,4,1,13.0,4.0,7.0,7.0,133.39
+1151,0,10.0,Mobile,3,15.0,E wallet,Male,2.0,4,Laptop,4,Married,2,0,14.0,0.0,1.0,3.0,141.89
+2146,1,13.0,Computer,3,6.0,UPI,Male,2.0,3,Laptop,3,Single,4,1,14.0,1.0,1.0,0.0,147.28
+3379,1,1.0,Mobile,1,11.0,COD,Male,3.0,4,Mobile,5,Single,3,0,20.0,2.0,2.0,1.0,154.73
+1931,0,0.0,Computer,1,15.0,DC,Male,3.0,4,Mobile,4,Married,2,0,11.0,0.0,1.0,0.0,126.94
+5377,0,1.0,Mobile,1,16.0,CC,Male,4.0,2,Mobile,3,Married,3,0,17.0,1.0,2.0,5.0,169.01
+118,0,13.0,Mobile,1,30.0,COD,Male,3.0,3,Laptop,2,Married,2,0,17.0,2.0,4.0,7.0,133.19
+498,0,3.0,Computer,1,11.0,DC,Male,3.0,4,Mobile,2,Married,10,0,12.0,0.0,1.0,3.0,137.61
+5239,0,13.0,Mobile,1,13.0,DC,Female,3.0,4,Fashion,4,Single,6,0,19.0,3.0,3.0,3.0,208.76
+4695,0,15.0,Mobile,2,17.0,UPI,Male,4.0,5,Others,1,Married,5,0,16.0,4.0,13.0,7.0,316.41
+5055,0,5.0,Mobile,1,18.0,CC,Male,4.0,4,Laptop,5,Married,3,1,13.0,2.0,2.0,2.0,193.33
+673,1,10.0,Mobile,1,31.0,CC,Male,2.0,4,Mobile,4,Single,5,1,20.0,0.0,2.0,2.0,123.13
+116,0,5.0,Computer,3,32.0,E wallet,Male,3.0,3,Laptop,2,Divorced,1,0,18.0,1.0,2.0,2.0,144.65
+911,1,0.0,Computer,1,8.0,DC,Male,3.0,3,Mobile,1,Divorced,7,1,13.0,2.0,2.0,2.0,137.22
+1815,0,0.0,Computer,3,16.0,CC,Male,2.0,3,Mobile,1,Married,1,0,13.0,1.0,2.0,1.0,124.0
+5199,1,1.0,Mobile,2,16.0,COD,Female,3.0,4,Mobile,3,Married,3,0,16.0,3.0,3.0,3.0,152.42
+3777,0,8.0,Mobile,3,14.0,COD,Male,3.0,4,Mobile,3,Married,2,1,26.0,1.0,6.0,8.0,148.08
+2293,0,3.0,Mobile,1,23.0,CC,Female,3.0,3,Fashion,5,Married,2,1,23.0,1.0,1.0,3.0,219.16000000000003
+3138,0,14.0,Mobile,1,13.0,DC,Female,4.0,4,Grocery,3,Single,9,0,16.0,5.0,2.0,14.0,257.37
+3724,0,19.0,Mobile,1,27.0,CC,Male,4.0,6,Fashion,5,Married,4,1,19.0,1.0,2.0,8.0,233.51
+332,1,10.0,Computer,3,11.0,E wallet,Male,3.0,3,Mobile,4,Single,2,1,14.0,1.0,1.0,0.0,118.78
+649,0,28.0,Computer,1,8.0,CC,Male,2.0,4,Grocery,5,Single,8,0,15.0,1.0,6.0,2.0,267.56
+393,0,11.0,Mobile,3,13.0,E wallet,Female,2.0,4,Laptop,2,Single,1,0,20.0,1.0,1.0,5.0,140.28
+2692,0,9.0,Computer,2,8.0,UPI,Male,3.0,4,Laptop,1,Single,2,0,21.0,1.0,1.0,8.0,138.86
+757,0,9.0,Mobile,1,6.0,COD,Female,3.0,5,Fashion,5,Married,3,1,21.0,5.0,7.0,7.0,202.52
+4493,0,17.0,Mobile,1,14.0,DC,Female,3.0,4,Fashion,5,Married,10,0,17.0,2.0,2.0,3.0,224.85
+3620,0,25.0,Computer,1,13.0,CC,Female,3.0,5,Mobile,3,Single,2,0,15.0,8.0,8.0,8.0,153.38
+5496,0,29.0,Mobile,1,9.0,COD,Male,4.0,5,Mobile,1,Married,10,0,21.0,2.0,2.0,5.0,151.62
+5451,1,1.0,Mobile,1,17.0,CC,Male,3.0,4,Laptop,5,Single,3,0,16.0,1.0,2.0,9.0,167.13
+2118,0,9.0,Mobile,1,18.0,CC,Female,2.0,4,Fashion,1,Single,1,0,11.0,5.0,7.0,8.0,188.58
+3073,0,1.0,Mobile,1,18.0,CC,Female,3.0,4,Mobile,4,Divorced,3,0,14.0,2.0,2.0,3.0,147.44
+3934,0,4.0,Computer,1,9.0,COD,Female,4.0,5,Mobile,5,Single,2,0,17.0,1.0,2.0,8.0,174.68
+3229,0,24.0,Mobile,3,15.0,E wallet,Male,3.0,4,Mobile,4,Divorced,9,0,16.0,2.0,3.0,3.0,163.75
+2421,0,27.0,Computer,1,17.0,CC,Female,2.0,3,Grocery,1,Married,4,0,20.0,0.0,2.0,12.0,260.32
+1851,0,10.0,Mobile,1,9.0,UPI,Male,2.0,3,Fashion,3,Married,2,0,15.0,7.0,7.0,8.0,194.34
+5366,0,1.0,Computer,1,14.0,CC,Male,4.0,4,Mobile,1,Single,3,0,21.0,1.0,6.0,8.0,150.7
+4174,1,1.0,Mobile,1,31.0,DC,Male,3.0,5,Mobile,3,Single,7,1,15.0,1.0,2.0,4.0,145.28
+5306,0,8.0,Computer,1,17.0,DC,Male,3.0,2,Laptop,1,Married,3,0,14.0,4.0,8.0,3.0,172.24
+5585,0,7.0,Mobile,1,22.0,CC,Female,4.0,4,Laptop,1,Married,2,1,14.0,7.0,9.0,2.0,173.78
+983,0,8.0,Mobile,1,16.0,CC,Male,3.0,4,Mobile,5,Single,2,0,19.0,0.0,1.0,2.0,124.5
+1928,0,7.0,Mobile,3,14.0,DC,Female,3.0,3,Laptop,5,Married,6,0,17.0,1.0,1.0,2.0,165.0
+3376,0,15.0,Mobile,1,13.0,CC,Male,3.0,4,Mobile,5,Single,4,1,14.0,2.0,3.0,18.0,172.21
+1046,1,10.0,Mobile,1,13.0,DC,Male,3.0,3,Mobile,5,Single,4,1,14.0,0.0,1.0,3.0,121.66
+1008,0,16.0,Mobile,1,33.0,COD,Male,2.0,1,Mobile,4,Married,6,0,12.0,1.0,1.0,2.0,148.76
+335,0,0.0,Mobile,3,35.0,CC,Male,2.0,3,Laptop,3,Married,6,0,12.0,1.0,1.0,0.0,143.06
+1823,0,10.0,Mobile,3,19.0,CC,Male,2.0,3,Mobile,3,Married,2,0,11.0,1.0,1.0,6.0,120.96000000000001
+1155,0,10.0,Mobile,2,14.0,UPI,Male,2.0,3,Laptop,4,Married,3,0,13.0,4.0,4.0,7.0,140.71
+4145,0,14.0,Mobile,1,9.0,DC,Male,3.0,5,Mobile,3,Single,4,0,15.0,1.0,3.0,3.0,153.09
+633,0,30.0,Mobile,3,6.0,COD,Male,3.0,3,Fashion,2,Divorced,4,1,14.0,0.0,1.0,3.0,219.04000000000002
+1382,0,10.0,Mobile,3,8.0,E wallet,Female,3.0,3,Mobile,1,Married,2,0,13.0,2.0,2.0,2.0,120.13999999999999
+1152,0,19.0,Mobile,1,8.0,CC,Male,2.0,3,Others,1,Married,8,1,16.0,1.0,2.0,2.0,293.28
+3910,0,10.0,Mobile,3,9.0,DC,Female,3.0,4,Laptop,1,Single,5,0,16.0,4.0,7.0,8.0,170.02
+1854,0,6.0,Computer,1,12.0,DC,Male,1.0,3,Laptop,1,Married,4,0,23.0,3.0,4.0,7.0,177.25
+5544,0,8.0,Mobile,3,8.0,E wallet,Male,3.0,4,Fashion,1,Single,3,0,22.0,3.0,3.0,3.0,223.88
+3705,0,8.0,Computer,1,7.0,UPI,Male,4.0,4,Mobile,5,Married,7,0,15.0,2.0,2.0,4.0,154.96
+4754,0,3.0,Mobile,1,30.0,DC,Male,3.0,2,Mobile,3,Married,3,0,25.0,2.0,2.0,8.0,152.0
+484,0,16.0,Mobile,1,20.0,DC,Male,3.0,3,Grocery,5,Divorced,7,0,24.0,1.0,1.0,0.0,271.59
+4354,0,19.0,Computer,1,9.0,CC,Male,4.0,5,Grocery,1,Married,11,0,16.0,2.0,12.0,9.0,292.92
+1136,0,11.0,Mobile,1,24.0,CC,Male,2.0,5,Laptop,1,Married,4,1,16.0,0.0,1.0,0.0,158.11
+4419,1,1.0,Computer,1,36.0,CC,Male,4.0,5,Mobile,4,Single,2,0,12.0,1.0,2.0,5.0,159.79
+1589,0,18.0,Mobile,1,6.0,UPI,Male,3.0,1,Others,1,Married,1,0,16.0,1.0,1.0,7.0,292.02
+1259,0,7.0,Mobile,3,6.0,E wallet,Male,2.0,3,Fashion,1,Single,2,0,21.0,1.0,2.0,1.0,198.88
+3158,0,26.0,Mobile,1,13.0,COD,Male,4.0,4,Laptop,5,Married,5,1,13.0,3.0,7.0,10.0,180.77
+5208,0,8.0,Mobile,3,10.0,UPI,Male,3.0,6,Laptop,5,Single,5,0,19.0,3.0,4.0,13.0,172.59
+2934,0,19.0,Mobile,1,7.0,UPI,Male,4.0,3,Others,2,Divorced,2,0,16.0,2.0,2.0,8.0,317.02
+2079,0,0.0,Mobile,1,16.0,DC,Male,3.0,5,Mobile,5,Married,2,0,15.0,0.0,1.0,1.0,124.50999999999999
+3469,1,15.0,Mobile,1,11.0,DC,Male,3.0,4,Mobile,3,Divorced,11,1,13.0,2.0,3.0,8.0,149.61
+1439,0,5.0,Mobile,3,12.0,CC,Male,2.0,3,Laptop,3,Single,2,0,16.0,5.0,5.0,7.0,150.1
+2031,0,14.0,Mobile,1,12.0,CC,Male,2.0,3,Mobile,5,Single,3,1,13.0,1.0,2.0,17.0,147.21
+3990,0,8.0,Mobile,3,15.0,COD,Male,4.0,2,Laptop,3,Married,3,0,22.0,1.0,5.0,9.0,192.99
+2168,0,2.0,Computer,1,16.0,DC,Female,3.0,3,Mobile,4,Married,1,0,14.0,0.0,1.0,1.0,132.91
+1616,1,10.0,Computer,1,35.0,DC,Male,2.0,3,Fashion,4,Married,2,1,12.0,4.0,9.0,3.0,218.49
+5360,0,18.0,Mobile,2,8.0,DC,Female,3.0,4,Mobile,1,Married,6,1,19.0,3.0,3.0,3.0,156.95
+4568,0,26.0,Mobile,1,11.0,DC,Female,2.0,4,Grocery,1,Married,4,0,14.0,1.0,2.0,5.0,290.55
+2628,0,10.0,Mobile,1,7.0,DC,Male,2.0,3,Mobile,1,Married,2,0,11.0,0.0,1.0,3.0,120.44
+5386,0,6.0,Computer,1,17.0,DC,Male,3.0,4,Mobile,3,Married,8,0,14.0,1.0,2.0,4.0,159.33
+435,0,7.0,Mobile,1,14.0,DC,Female,2.0,3,Laptop,5,Married,4,0,14.0,1.0,1.0,0.0,151.21
+5226,0,7.0,Mobile,1,11.0,CC,Female,3.0,5,Mobile,4,Married,10,0,12.0,2.0,2.0,3.0,163.38
+2841,0,9.0,Mobile,3,7.0,E wallet,Male,4.0,4,Fashion,4,Divorced,3,0,14.0,2.0,2.0,7.0,197.95
+4611,0,16.0,Mobile,1,31.0,CC,Male,3.0,4,Fashion,5,Married,3,1,22.0,6.0,6.0,9.0,199.06
+722,0,7.0,Computer,1,6.0,CC,Male,3.0,4,Laptop,5,Single,1,0,20.0,1.0,4.0,9.0,153.43
+4463,0,5.0,Mobile,3,14.0,COD,Male,4.0,2,Laptop,1,Married,6,0,12.0,4.0,8.0,8.0,194.29
+4783,0,4.0,Computer,1,12.0,DC,Male,4.0,5,Mobile,1,Married,11,0,13.0,1.0,2.0,4.0,162.61
+786,1,0.0,Computer,3,30.0,DC,Male,3.0,5,Mobile,2,Single,2,1,14.0,1.0,1.0,0.0,111.18
+2109,0,1.0,Mobile,3,16.0,CC,Male,3.0,3,Mobile,4,Married,2,0,22.0,0.0,1.0,0.0,110.52000000000001
+1808,1,0.0,Mobile,1,16.0,COD,Male,3.0,5,Mobile,1,Single,2,1,18.0,0.0,1.0,0.0,123.4
+4277,0,10.0,Computer,3,18.0,COD,Female,4.0,4,Fashion,1,Married,2,0,15.0,1.0,3.0,3.0,222.38
+4267,1,1.0,Mobile,3,12.0,E wallet,Male,3.0,5,Laptop,3,Single,3,1,12.0,1.0,2.0,4.0,182.44
+5108,0,4.0,Mobile,1,24.0,CC,Female,4.0,4,Fashion,5,Married,3,1,24.0,2.0,2.0,9.0,244.16000000000003
+945,0,1.0,Computer,3,13.0,DC,Male,2.0,3,Laptop,5,Single,1,0,14.0,1.0,1.0,3.0,148.98
+4615,0,7.0,Mobile,1,7.0,CC,Female,4.0,2,Grocery,3,Married,6,0,20.0,1.0,2.0,6.0,286.84
+4741,0,4.0,Mobile,1,7.0,DC,Male,3.0,6,Mobile,3,Married,5,0,22.0,2.0,2.0,3.0,163.33
+3021,0,1.0,Computer,3,7.0,E wallet,Male,4.0,4,Laptop,4,Divorced,2,1,14.0,1.0,2.0,5.0,188.49
+3272,0,14.0,Computer,1,9.0,CC,Female,3.0,2,Laptop,4,Divorced,3,0,25.0,1.0,4.0,8.0,167.44
+1552,0,10.0,Computer,1,24.0,CC,Female,3.0,3,Mobile,1,Single,2,0,13.0,0.0,1.0,7.0,121.53
+4347,0,29.0,Mobile,1,21.0,CC,Male,4.0,2,Others,4,Single,10,0,16.0,3.0,3.0,16.0,312.22
+3718,0,15.0,Mobile,1,12.0,CC,Male,3.0,2,Mobile,3,Divorced,4,1,13.0,2.0,2.0,4.0,146.27
+3741,0,18.0,Computer,3,7.0,E wallet,Female,4.0,4,Laptop,3,Divorced,9,0,13.0,2.0,2.0,1.0,172.68
+4720,0,8.0,Mobile,1,15.0,DC,Female,3.0,4,Laptop,5,Married,5,0,15.0,2.0,2.0,1.0,176.21
+947,0,2.0,Computer,1,8.0,DC,Female,3.0,3,Mobile,4,Divorced,1,0,13.0,0.0,1.0,2.0,131.8
+158,0,28.0,Mobile,1,26.0,COD,Male,2.0,3,Laptop,2,Divorced,4,1,19.0,1.0,1.0,8.0,154.15
+4301,0,19.0,Mobile,1,36.0,CC,Male,3.0,4,Mobile,1,Single,7,0,14.0,2.0,2.0,4.0,159.52
+938,0,2.0,Mobile,3,25.0,DC,Male,3.0,4,Laptop,3,Married,2,0,14.0,1.0,1.0,4.0,186.2
+3075,1,1.0,Computer,1,11.0,COD,Male,3.0,4,Mobile,2,Single,20,1,24.0,2.0,2.0,1.0,147.85
+4739,0,8.0,Mobile,1,9.0,CC,Female,3.0,5,Mobile,5,Single,3,0,12.0,2.0,2.0,4.0,168.81
+5011,0,30.0,Mobile,1,11.0,COD,Female,4.0,4,Others,5,Married,6,0,14.0,5.0,5.0,3.0,324.43
+1258,0,9.0,Computer,1,15.0,DC,Male,3.0,1,Mobile,4,Married,2,0,22.0,1.0,1.0,2.0,128.1
+1674,0,20.0,Mobile,1,11.0,DC,Male,2.0,3,Others,3,Married,5,0,11.0,1.0,1.0,1.0,283.0
+1775,0,8.0,Mobile,1,28.0,DC,Male,2.0,5,Mobile,3,Single,1,0,15.0,1.0,4.0,3.0,142.3
+2654,0,0.0,Mobile,3,16.0,CC,Male,2.0,3,Laptop,1,Single,2,0,13.0,1.0,1.0,2.0,146.84
+1571,0,10.0,Computer,3,10.0,E wallet,Male,3.0,3,Mobile,1,Married,5,0,17.0,3.0,5.0,8.0,127.93
+2290,0,23.0,Mobile,1,34.0,DC,Female,2.0,3,Grocery,5,Married,5,1,11.0,1.0,1.0,2.0,268.8
+4142,1,14.0,Computer,3,7.0,DC,Male,4.0,4,Laptop,3,Married,9,0,13.0,2.0,2.0,2.0,192.28
+68,0,10.0,Computer,1,13.0,CC,Male,2.0,2,Mobile,2,Married,5,0,14.0,0.0,2.0,2.0,120.88999999999999
+4476,0,23.0,Mobile,1,7.0,COD,Female,3.0,5,Grocery,3,Single,9,1,13.0,1.0,2.0,8.0,264.64
+4809,0,27.0,Mobile,1,30.0,DC,Female,4.0,4,Grocery,1,Single,8,0,19.0,1.0,4.0,9.0,267.75
+4490,0,17.0,Computer,1,17.0,DC,Female,3.0,5,Laptop,3,Married,3,0,12.0,2.0,2.0,1.0,177.57
+5160,0,26.0,Mobile,1,15.0,UPI,Female,3.0,4,Mobile,5,Married,11,0,14.0,2.0,2.0,5.0,154.5
+3594,0,22.0,Mobile,1,7.0,DC,Male,4.0,5,Others,2,Single,8,0,16.0,2.0,2.0,1.0,307.65
+1095,0,9.0,Mobile,3,8.0,DC,Female,2.0,3,Laptop,1,Single,4,0,15.0,3.0,6.0,7.0,145.02
+4472,0,5.0,Mobile,1,9.0,DC,Male,3.0,4,Mobile,1,Married,2,1,19.0,3.0,3.0,3.0,151.95
+3871,0,23.0,Mobile,1,13.0,DC,Female,3.0,5,Grocery,3,Married,4,1,20.0,1.0,3.0,13.0,264.66
+523,0,10.0,Computer,3,27.0,CC,Female,3.0,3,Mobile,2,Divorced,6,0,15.0,1.0,1.0,0.0,129.73
+2519,0,0.0,Computer,1,8.0,DC,Male,3.0,1,Laptop,3,Married,2,0,17.0,1.0,1.0,7.0,152.06
+4,1,0.0,Mobile,1,12.0,CC,Male,3.0,3,Mobile,5,Single,3,0,11.0,1.0,1.0,3.0,129.6
+1490,0,3.0,Mobile,1,11.0,COD,Female,2.0,3,Mobile,5,Married,6,0,14.0,0.0,2.0,30.0,132.04
+3903,1,1.0,Mobile,3,14.0,DC,Male,3.0,4,Mobile,1,Married,3,1,22.0,2.0,2.0,3.0,147.75
+5072,0,1.0,Mobile,1,11.0,DC,Male,3.0,4,Mobile,1,Single,3,1,21.0,3.0,3.0,3.0,153.75
+1256,0,10.0,Computer,1,22.0,CC,Male,2.0,3,Mobile,3,Single,2,0,14.0,0.0,1.0,4.0,121.44
+5287,0,1.0,Mobile,1,17.0,COD,Male,3.0,2,Mobile,3,Married,4,0,17.0,1.0,3.0,3.0,145.73
+4750,0,7.0,Mobile,1,14.0,CC,Male,3.0,4,Fashion,3,Married,2,0,12.0,2.0,2.0,8.0,241.91000000000003
+1482,0,12.0,Mobile,3,10.0,DC,Female,2.0,4,Laptop,3,Married,5,0,14.0,5.0,5.0,9.0,159.02
+2994,0,13.0,Mobile,1,7.0,CC,Male,3.0,3,Fashion,2,Married,2,0,18.0,4.0,4.0,3.0,221.13
+125,1,0.0,Computer,1,16.0,CC,Male,3.0,3,Fashion,3,Married,7,0,11.0,1.0,1.0,0.0,200.48
+1114,0,4.0,Computer,1,30.0,COD,Female,1.0,3,Laptop,1,Single,3,0,20.0,1.0,1.0,4.0,152.38
+3866,0,23.0,Mobile,1,29.0,UPI,Female,4.0,4,Grocery,4,Married,5,0,17.0,1.0,2.0,3.0,289.13
+4765,0,12.0,Computer,1,19.0,DC,Male,1.0,5,Laptop,5,Married,4,0,16.0,2.0,2.0,3.0,187.88
+5424,0,29.0,Mobile,1,9.0,CC,Male,3.0,5,Others,5,Married,10,0,16.0,2.0,2.0,1.0,315.38
+5394,0,21.0,Computer,3,9.0,E wallet,Male,3.0,4,Laptop,4,Married,9,0,12.0,1.0,2.0,1.0,174.78
+2195,0,5.0,Computer,3,8.0,DC,Female,3.0,3,Mobile,5,Married,2,0,12.0,1.0,1.0,0.0,128.27
+5566,0,28.0,Mobile,1,17.0,CC,Female,4.0,4,Laptop,5,Single,8,1,20.0,1.0,2.0,5.0,169.4
+3891,1,1.0,Mobile,1,15.0,CC,Male,4.0,5,Mobile,3,Single,3,1,12.0,2.0,2.0,3.0,164.89
+2818,1,1.0,Mobile,3,16.0,DC,Male,3.0,5,Laptop,5,Single,9,0,24.0,1.0,2.0,4.0,159.07
+4991,1,1.0,Computer,1,22.0,CC,Male,4.0,4,Mobile,3,Married,3,0,13.0,2.0,3.0,3.0,151.1
+1306,0,5.0,Mobile,3,6.0,E wallet,Female,2.0,3,Fashion,1,Married,2,0,19.0,3.0,5.0,7.0,204.22
+1353,0,11.0,Computer,1,29.0,DC,Male,2.0,4,Fashion,3,Single,1,0,21.0,1.0,1.0,8.0,195.26
+1355,0,8.0,Mobile,1,16.0,CC,Male,2.0,1,Mobile,4,Married,1,0,13.0,1.0,1.0,3.0,124.25999999999999
+1083,0,7.0,Mobile,1,11.0,CC,Male,2.0,4,Laptop,1,Married,2,0,14.0,4.0,4.0,13.0,139.86
+4274,0,8.0,Mobile,1,13.0,DC,Female,3.0,5,Laptop,4,Married,8,0,16.0,2.0,2.0,1.0,170.05
+2101,0,5.0,Computer,1,35.0,CC,Female,3.0,3,Mobile,3,Single,10,0,12.0,6.0,7.0,7.0,140.25
+4244,0,8.0,Mobile,1,7.0,CC,Male,4.0,4,Laptop,4,Married,3,0,16.0,2.0,2.0,4.0,168.25
+5277,0,8.0,Mobile,1,8.0,DC,Male,3.0,4,Laptop,1,Married,11,0,18.0,1.0,3.0,2.0,179.84
+1609,1,0.0,Mobile,1,8.0,DC,Male,3.0,3,Mobile,3,Single,3,0,11.0,0.0,1.0,0.0,134.85
+1115,0,12.0,Computer,1,6.0,DC,Male,3.0,3,Laptop,1,Married,2,1,15.0,3.0,5.0,8.0,164.72
+684,0,1.0,Mobile,1,9.0,CC,Female,3.0,3,Fashion,4,Married,1,0,17.0,0.0,1.0,7.0,176.55
+3886,0,15.0,Mobile,3,30.0,DC,Male,4.0,4,Fashion,3,Single,5,1,17.0,1.0,2.0,3.0,195.82
+591,0,14.0,Computer,1,15.0,CC,Male,3.0,3,Others,3,Married,3,0,16.0,1.0,1.0,11.0,294.19
+1017,0,18.0,Mobile,1,11.0,CC,Female,2.0,5,Laptop,5,Single,2,1,14.0,1.0,1.0,4.0,157.69
+235,0,30.0,Mobile,1,6.0,CC,Male,2.0,3,Laptop,3,Divorced,3,0,11.0,1.0,1.0,2.0,167.55
+191,0,22.0,Mobile,1,6.0,COD,Female,2.0,4,Grocery,3,Single,8,1,12.0,1.0,2.0,7.0,239.64
+1953,1,18.0,Mobile,3,8.0,CC,Male,2.0,3,Laptop,1,Single,5,0,16.0,1.0,7.0,3.0,151.6
+5317,0,9.0,Computer,1,15.0,DC,Female,3.0,4,Laptop,3,Married,3,0,13.0,1.0,3.0,10.0,166.48
+3643,1,8.0,Mobile,1,10.0,DC,Male,3.0,4,Mobile,5,Divorced,6,0,13.0,2.0,2.0,3.0,148.62
+5477,0,1.0,Computer,1,12.0,DC,Female,3.0,4,Mobile,1,Single,2,1,15.0,2.0,2.0,3.0,148.79
+4593,0,6.0,Mobile,3,17.0,E wallet,Female,4.0,5,Fashion,1,Married,4,1,20.0,1.0,2.0,3.0,215.71
+5052,1,1.0,Computer,1,17.0,CC,Female,4.0,5,Mobile,4,Single,3,1,26.0,1.0,2.0,1.0,143.59
+265,0,16.0,Mobile,1,18.0,DC,Male,2.0,4,Grocery,4,Married,2,0,11.0,0.0,2.0,9.0,243.36
+4471,0,19.0,Computer,1,14.0,DC,Male,4.0,4,Fashion,5,Married,3,0,19.0,3.0,10.0,12.0,177.1
+1325,0,8.0,Mobile,2,32.0,DC,Female,2.0,3,Fashion,1,Single,2,1,16.0,1.0,1.0,7.0,188.37
+3246,0,27.0,Mobile,1,13.0,DC,Male,3.0,4,Laptop,2,Single,4,0,18.0,2.0,3.0,3.0,149.5

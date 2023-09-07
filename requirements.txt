@@ -4,6 +4,8 @@ numpy>=1.21.6
 imblearn>=0.0
 Flask>=1.1.4
 gunicorn>=20.1.0
-
+python-dotenv
+mysql-connector-python
+pymysql
 
 #-e .
